@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import { BlogPosts } from 'components/posts'
+import { RecentPosts } from 'components/posts'
 
 export default function Page() {
   return (
@@ -30,9 +30,7 @@ export default function Page() {
         I'll be sharing stories about development, technology, and daily life. 
         Stay tuned and thanks for your interest!`}
       </p>
-      <div className="my-8">
-        <BlogPosts />
-      </div>
+      <RecentPosts />
     </section>
   )
 }

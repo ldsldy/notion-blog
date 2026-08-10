@@ -4,13 +4,13 @@ import ThemeToggle from './theme'
 
 const navItems = {
   '/': {
-    name: 'home',
+    name: 'Home',
   },
   '/blog': {
-    name: 'blog',
+    name: 'Post',
   },
   'https://github.com/ldsldy': {
-    name: 'github',
+    name: 'Github',
   },
 }
 
