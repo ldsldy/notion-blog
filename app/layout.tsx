@@ -23,10 +23,10 @@ export const metadata: Metadata = {
     type: 'website',
     images: [
       {
-        url: '/profile.png',
-        width: 800,
-        height: 600,
-        alt: '프로필 이미지',
+        url: '/og.png',
+        width: 1200,
+        height: 630,
+        alt: "LDY's Study Cafe",
       }
     ],
   },
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    images: ['/profile.png'],
+    images: ['/og.png'],
   },
   icons: {
     icon: '/profile.png',

@@ -8,6 +8,8 @@ export async function generateStaticParams() {
   return posts.map((post) => ({ slug: post.slug }))
 }
 
+export const dynamicParams = false
+
 export function generateMetadata({ params }) {
   let post = posts.find((post) => post.slug === params.slug)
   if (!post) {
@@ -21,7 +23,7 @@ export function generateMetadata({ params }) {
   } = post
   let ogImage = image
     ? image
-    : `${baseUrl}/og?title=${encodeURIComponent(title)}`
+    : `${baseUrl}/og.png`
 
   return {
     title,
@@ -69,7 +71,7 @@ export default async function Blog({ params }) {
             description: post.description,
             image: post.image
               ? `${baseUrl}${post.image}`
-              : `/og?title=${encodeURIComponent(post.title)}`,
+              : `${baseUrl}/og.png`,
             url: `${baseUrl}/blog/${post.slug}`,
             author: {
               '@type': 'Person',

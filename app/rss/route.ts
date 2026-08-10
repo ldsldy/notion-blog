@@ -1,11 +1,11 @@
 import { baseUrl } from 'app/sitemap'
 import posts from 'content/posts'
 
-export const runtime = 'edge';
+export const dynamic = 'force-static'
 
 export async function GET() {
 
-  const itemsXml = posts
+  const itemsXml = [...posts]
     .sort((a, b) => {
       if (new Date(a.date) > new Date(b.date)) {
         return -1
