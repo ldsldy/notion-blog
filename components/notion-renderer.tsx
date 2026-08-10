@@ -7,6 +7,7 @@ type NotionPost = {
   title: string
   content: { blocks: any[] }
   image?: string
+  tags?: string[]
 }
 
 type FallbackBlockProps = {
@@ -65,6 +66,16 @@ export default function NotionRenderer({ post }: { post: NotionPost }) {
       <Notion.Cover src={post.image} />
       <Notion.Body>
         <Notion.Title title={post.title} />
+        <div className="notion-post-tags" aria-label="포스팅 태그">
+          <span className="notion-post-tags-label">Tags</span>
+          <div className="notion-post-tags-list">
+            {(post.tags?.length ? post.tags : ['미분류']).map((tag) => (
+              <span key={tag} className="notion-post-tag">
+                #{tag}
+              </span>
+            ))}
+          </div>
+        </div>
         <Notion.Blocks blocks={normalizeBlocks(post.content.blocks)} />
       </Notion.Body>
     </Notion>

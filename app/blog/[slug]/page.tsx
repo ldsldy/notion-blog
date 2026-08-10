@@ -3,6 +3,7 @@ import { baseUrl } from 'app/sitemap'
 import posts from 'content/posts'
 import NotionRenderer from 'components/notion-renderer'
 import Comment from 'components/comment'
+import PostLayout from 'components/post-layout'
 
 export async function generateStaticParams() {
   return posts.map((post) => ({ slug: post.slug }))
@@ -56,8 +57,12 @@ export default async function Blog({ params }) {
     notFound()
   }
 
+  const allTags = Array.from(
+    new Set(posts.flatMap((item) => item.tags ?? [])),
+  ).sort((a, b) => a.localeCompare(b, 'ko'))
+
   return (
-    <section>
+    <PostLayout currentTags={post.tags ?? []} allTags={allTags}>
       <script
         type="application/ld+json"
         suppressHydrationWarning
@@ -82,6 +87,6 @@ export default async function Blog({ params }) {
       />
       <NotionRenderer post={post} />
       <Comment />
-    </section>
+    </PostLayout>
   )
 }

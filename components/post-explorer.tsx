@@ -2,7 +2,7 @@
 
 import Image from 'next/image'
 import Link from 'next/link'
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 
 type PostSummary = {
   title: string
@@ -22,6 +22,25 @@ export default function PostExplorer({ posts }: { posts: PostSummary[] }) {
     () => Array.from(new Set(posts.flatMap((post) => post.tags))).sort(),
     [posts],
   )
+
+  useEffect(() => {
+    const requestedTag = new URLSearchParams(window.location.search).get('tag')
+    if (requestedTag && tags.includes(requestedTag)) {
+      setSelectedTag(requestedTag)
+    }
+  }, [tags])
+
+  const selectTag = (tag: string) => {
+    setSelectedTag(tag)
+
+    const url = new URL(window.location.href)
+    if (tag === ALL_POSTS) {
+      url.searchParams.delete('tag')
+    } else {
+      url.searchParams.set('tag', tag)
+    }
+    window.history.replaceState(null, '', `${url.pathname}${url.search}`)
+  }
 
   const visiblePosts = useMemo(() => {
     const sorted = [...posts].sort(
@@ -50,7 +69,7 @@ export default function PostExplorer({ posts }: { posts: PostSummary[] }) {
                 key={tag}
                 type="button"
                 aria-pressed={isSelected}
-                onClick={() => setSelectedTag(tag)}
+                onClick={() => selectTag(tag)}
                 className={`shrink-0 rounded-md px-3 py-2 text-left text-sm transition-colors sm:w-full ${
                   isSelected
                     ? 'bg-teal-50 font-medium text-teal-600 dark:bg-teal-950/40 dark:text-teal-400'
