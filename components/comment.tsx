@@ -3,6 +3,10 @@
 // 2. Update repo, repoId, and categoryId with your own giscus settings
 // 3. Visit https://giscus.app to get your settings
 
+export default function Comment() {
+  return null
+}
+
 // export default function Comment() {
 //   return (
 //     <Giscus
