@@ -102,10 +102,6 @@ async function queryPublishedPages(dataSourceId) {
     const response = await notionRequest(`/data_sources/${dataSourceId}/query`, {
       method: 'POST',
       body: JSON.stringify({
-        filter: {
-          property: PROPERTY_NAMES.status,
-          status: { equals: PUBLISHED_STATUS },
-        },
         sorts: [
           {
             property: PROPERTY_NAMES.publishedAt,
@@ -121,7 +117,7 @@ async function queryPublishedPages(dataSourceId) {
     startCursor = response.has_more ? response.next_cursor : undefined
   } while (startCursor)
 
-  return pages
+  return pages.filter((page) => readStatus(page.properties?.[PROPERTY_NAMES.status]) === PUBLISHED_STATUS)
 }
 
 async function fetchBlocks(parentId) {
@@ -150,6 +146,10 @@ function richTextValue(property) {
   return values.map((value) => value.plain_text || value.text?.content || '').join('').trim()
 }
 
+function readStatus(property) {
+  return property?.status?.name || property?.select?.name
+}
+
 function fileUrl(file) {
   if (file?.type === 'file') return file.file?.url
   if (file?.type === 'external') return file.external?.url
@@ -166,7 +166,7 @@ function validateAndReadProperties(page) {
   const properties = page.properties || {}
   const title = richTextValue(properties[PROPERTY_NAMES.title])
   const slug = richTextValue(properties[PROPERTY_NAMES.slug])
-  const status = properties[PROPERTY_NAMES.status]?.status?.name
+  const status = readStatus(properties[PROPERTY_NAMES.status])
   const publishedAt = properties[PROPERTY_NAMES.publishedAt]?.date?.start
   const description = richTextValue(properties[PROPERTY_NAMES.description])
   const thumbnailFiles = properties[PROPERTY_NAMES.thumbnail]?.files || []
