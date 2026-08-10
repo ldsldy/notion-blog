@@ -5,10 +5,10 @@ import type { Post } from './post'
 const notionPosts: Post[] = [
   {
     "notionPageId": "3b8f909c-3e9d-8004-865b-e5cee7703f08",
-    "title": ".NET과 C#",
-    "slug": "test-post",
+    "title": "C# 코드는 어떻게 실행되는가 - 1편, .NET과 C#",
+    "slug": "csharp01-post",
     "date": "2026-08-10",
-    "description": "자동화를 확인하기 위한 글입니다.",
+    "description": ".NET과 C#에 대한 기초",
     "image": "/notion-data/3b8f909c-3e9d-8004-865b-e5cee7703f08/thumbnail.png",
     "tags": [
       "C#"
