@@ -2,7 +2,7 @@
   "object": "page",
   "id": "3b8f909c-3e9d-8004-865b-e5cee7703f08",
   "created_time": "2026-08-10T04:54:00.000Z",
-  "last_edited_time": "2026-08-10T06:16:00.000Z",
+  "last_edited_time": "2026-08-10T06:54:00.000Z",
   "created_by": {
     "object": "user",
     "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -48,8 +48,8 @@
           "name": "스크린샷 2026-08-10 110719.png",
           "type": "file",
           "file": {
-            "url": "https://prod-files-secure-apne2.s3.ap-northeast-2.amazonaws.com/abef909c-3e9d-81f7-8928-000356ef3a91/461098ef-c500-4c44-88ee-171cbefe7de0/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-08-10_110719.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4663BP4IJ7A%2F20260810%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Date=20260810T062638Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLW5vcnRoZWFzdC0yIkgwRgIhAL6IBCGQzhNBgweED0S%2BEaKUq7AcwGERWT%2BS4oHSnCaNAiEA1YlmLRl48XZvX0lul7GZs2ryelqBd2daxOshytQff4kqjwQIl%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDPk3M4B6iGZcLRY29CrjA8RBUe67v1xceENvn6BdzkW9d1GUY2M92yV5YiNeQYY4GAhMKd5cocoK5%2FGscnUboApu0Dnv6Z7Plu8elfN7a%2F%2B8kHgMooDPhvt20ES27Kh03m0omvPKlAslubLPidRQTyflTKKo%2BNEwvNuNgb8szSkGD0Wk2aiDnMTsDsqqkJ2MC5hovkheRVyPShfGW0TVjsuhGDSGZ8xU4vI8BNCABgjbh0%2FsvCb1AN%2F%2FRE5dwgfuEUxAzhv6KpaSrkBxwrjhEv0U2CpE15cwdIuJtBePNez7mWnAt6QuO9K8R2B10kXzTfDTeWGE3ZRbCGsjT7XqlbSC1kze2vWfIwJLlLfChUXeyASNNkvPcikIMQsABrJU7pRPaYVoU0npj9JQiylsepeMtihLXQIrN6IL96v7XVZsBtEOTBqQLsN7IcCDIvQpaPMwRrOCR3a%2BJcjqw8N81KdmRUj34iBhPS8mMO%2FjVmXzSzvt6WOoxvPXKmUjQrQY2cFzcLFDiYcqTxHcDVrkcCqvoqxlUs1ZSWRlfZ0DyaZ43aaL8efLR0%2BlEv8eqoGVTEG9b%2BxVKtFdnrBTzg9UDyqn9Yid9fhubaHzUZKWcVJDynSXVv38%2BSu%2BEf%2BmAGPY25o9uGzb10MAmdBF452o76p1BTDpyeXTBjqkATRlgo3JlpsNTxt%2Bn%2FYqKUJEu664I7K00EXxrVxxcFS7CiZsVHIaYbzPdkZSnVM2pxoTfX0vtIq01Xx6EO%2BOjGJwpY2C7pvsPYHbCaPswkuOQTn%2Fvp9NAZg1R1P9rgCPXqef2Btg4OpxDxhBn3QstjfwvdE9kn6AAMJBubFI5M9FQG6BY%2Buso4DaIwrCt2f1TwVlMoACkw0fTh1egdnOXFaM15rH&X-Amz-Signature=7b3f53e924e5ebc2473c2f577c59582de02a280c32da19947a61d5e0d9354617&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-            "expiry_time": "2026-08-10T07:26:38.215Z"
+            "url": "https://prod-files-secure-apne2.s3.ap-northeast-2.amazonaws.com/abef909c-3e9d-81f7-8928-000356ef3a91/461098ef-c500-4c44-88ee-171cbefe7de0/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-08-10_110719.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466R3BAJ6Y3%2F20260810%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Date=20260810T065554Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLW5vcnRoZWFzdC0yIkcwRQIhAJbDVuZYedY63N05hO9zeOPE9%2FCKhxhK0BfpnNYFKnOpAiB9PlSeDsH4SmEldmSAQsqOTDCEm8DqxMBxU1uXbDGK5CqPBAiX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMK1zOxdqGhXxlCwMgKuMDfONrk%2BW1pizG5gdXkRu79fsqsbOAvqPCu42J0waoLCrlEL%2B7DgXeGPBw474ij2cjHIt1qhcFJzAACKWfb8NFo%2BF4ukPVoHE7nGAPi86JsO3WDEw%2BmF1lXBj2xmduUTVnO6zZOYyx8NtXldji%2B6PmxXK%2F14y4rZF%2FHs%2F6E5kEQkF2znYvuh5Jq92IKOITpdGvmSzlZ%2B8%2FyTdAbm%2BRBPNJl7kJJhqf9bAjhZj3MHqw4qE87JEojZ0PoA4Of4tw42qPa0OhbjnmvKUD59TiGd2MSm1CckRjXlCWNHtyINnIFY7z53GKSD0yQkUcLbjNAT8WioNTZ8MV0SOP5fmZI1lBLLmIpbZc8Uxk1GOaN%2BP7EY5zzjXAYevG8P%2BPBqwlESYBfoyvdwfDvyYYphJllaYw4m%2FnOnTQlUneoL0DRUQCNAZH4XBO3XIJ8FCxwscVJXMVYFOvWOedr7%2F%2Fz2HpjXri9TZUCuS4dYP5jmpM8Eg7xiM5bkWJnDv8UqdKxiHF361zEYzGmyhoFGU2oSsxFABsQjr4tHWoWRF89sYvE31f9K%2Bl47T2cBFpXClv4ct4dnB0%2BbEJeOZA7Dbj83EV915q8ZSQsWwUOjY2AzTn8XpfqyJzxF%2BzhAtomgQesbomyV%2BomgdmMOnJ5dMGOqUB97TsB5dOnien5RTWEbsd0MuW8b6Savk8PXdG8QAcnXmfkv1%2F6sQ3C2ue0aEL8rFsr8EHY1%2BS7B4tz5YJPD8NRnWhqpyfEhkMUwZCMC%2BwUfJV5DTzy%2FnAgcwhriFah4yHttzMt1PaH7MVreUdpjh3Nd8bML0Kp2BiznXkb9du473CbhVltvL166t0lOGVyDn%2FbvwI3Bqf6MyDXa04rpaQXl5e%2FoSl&X-Amz-Signature=76ed6650bc4dfe67391093e543c006524d96cdcc48852ec5fb690549f350aab7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+            "expiry_time": "2026-08-10T07:55:54.336Z"
           }
         }
       ]
@@ -82,9 +82,9 @@
       "type": "multi_select",
       "multi_select": [
         {
-          "id": "5f0fdb71-d87f-45d2-bc06-0a69f5f44dd4",
-          "name": "Test",
-          "color": "brown"
+          "id": "aa9fe23f-76d6-4b82-a9da-711f9a8a35f5",
+          "name": "C#",
+          "color": "yellow"
         }
       ]
     },
@@ -118,7 +118,7 @@
         {
           "type": "text",
           "text": {
-            "content": "C#의 전략과 실행 구조",
+            "content": ".NET과 C#",
             "link": null
           },
           "annotations": {
@@ -129,13 +129,13 @@
             "code": false,
             "color": "default"
           },
-          "plain_text": "C#의 전략과 실행 구조",
+          "plain_text": ".NET과 C#",
           "href": null
         }
       ]
     }
   },
-  "url": "https://app.notion.com/p/C-3b8f909c3e9d8004865be5cee7703f08",
+  "url": "https://app.notion.com/p/NET-C-3b8f909c3e9d8004865be5cee7703f08",
   "public_url": null,
   "archived": false,
   "blocks": [
@@ -147,7 +147,7 @@
         "page_id": "3b8f909c-3e9d-8004-865b-e5cee7703f08"
       },
       "created_time": "2026-08-10T05:15:00.000Z",
-      "last_edited_time": "2026-08-10T06:15:00.000Z",
+      "last_edited_time": "2026-08-10T06:50:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -164,7 +164,7 @@
           {
             "type": "text",
             "text": {
-              "content": "C#의 전략과 실행 구조",
+              "content": ".NET과 C#",
               "link": null
             },
             "annotations": {
@@ -175,7 +175,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "C#의 전략과 실행 구조",
+            "plain_text": ".NET과 C#",
             "href": null
           }
         ],
@@ -193,7 +193,7 @@
         "page_id": "3b8f909c-3e9d-8004-865b-e5cee7703f08"
       },
       "created_time": "2026-08-10T06:16:00.000Z",
-      "last_edited_time": "2026-08-10T06:16:00.000Z",
+      "last_edited_time": "2026-08-10T06:50:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -210,7 +210,7 @@
           {
             "type": "text",
             "text": {
-              "content": "C#은 ",
+              "content": ".NET은 다양한 종류의 어플리케이션을 빌드하기 위한 무료 플랫폼 간 오픈 소스 개발자 플랫폼이고 C#은 Microsoft에서 만든 객체 지향 언어(OOP)이며 ",
               "link": null
             },
             "annotations": {
@@ -221,7 +221,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "C#은 ",
+            "plain_text": ".NET은 다양한 종류의 어플리케이션을 빌드하기 위한 무료 플랫폼 간 오픈 소스 개발자 플랫폼이고 C#은 Microsoft에서 만든 객체 지향 언어(OOP)이며 ",
             "href": null
           }
         ],
