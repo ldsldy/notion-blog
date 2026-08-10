@@ -3,7 +3,7 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const NOTION_API_URL = 'https://api.notion.com/v1'
-const NOTION_VERSION = '2025-09-03'
+const NOTION_VERSION = '2022-06-28'
 const PUBLISHED_STATUS = 'Published'
 const PROPERTY_NAMES = {
   title: 'Title',
@@ -77,31 +77,20 @@ async function notionRequest(endpoint, options = {}) {
   return payload
 }
 
-async function resolveDataSourceId() {
-  const database = await notionRequest(`/databases/${databaseId}`)
-  const dataSources = database.data_sources || []
-
-  if (dataSources.length === 0) {
-    throw new Error('The Notion database does not contain a data source.')
-  }
-
-  if (dataSources.length > 1) {
-    throw new Error(
-      'The Notion database contains multiple data sources. Use a database with one Blog Posts data source.',
-    )
-  }
-
-  return dataSources[0].id
-}
-
-async function queryPublishedPages(dataSourceId) {
+async function queryPublishedPages() {
   const pages = []
   let startCursor
 
   do {
-    const response = await notionRequest(`/data_sources/${dataSourceId}/query`, {
+    const response = await notionRequest(`/databases/${databaseId}/query`, {
       method: 'POST',
       body: JSON.stringify({
+        filter: {
+          property: PROPERTY_NAMES.status,
+          select: {
+            equals: PUBLISHED_STATUS,
+          },
+        },
         sorts: [
           {
             property: PROPERTY_NAMES.publishedAt,
@@ -117,7 +106,7 @@ async function queryPublishedPages(dataSourceId) {
     startCursor = response.has_more ? response.next_cursor : undefined
   } while (startCursor)
 
-  return pages.filter((page) => readStatus(page.properties?.[PROPERTY_NAMES.status]) === PUBLISHED_STATUS)
+  return pages
 }
 
 async function fetchBlocks(parentId) {
@@ -359,9 +348,8 @@ async function main() {
   await mkdir(notionDataDir, { recursive: true })
   await mkdir(publicNotionDir, { recursive: true })
 
-  console.log('Resolving the Notion Blog Posts data source...')
-  const dataSourceId = await resolveDataSourceId()
-  const pages = await queryPublishedPages(dataSourceId)
+  console.log('Querying published pages from Notion database...')
+  const pages = await queryPublishedPages()
   const previousManifest = await readPreviousManifest()
 
   const posts = []
@@ -383,7 +371,7 @@ async function main() {
   await writeFile(generatedPostsFile, generatePostsSource(posts), 'utf8')
   await writeFile(
     manifestFile,
-    `${JSON.stringify({ databaseId, dataSourceId, pageIds: currentPageIds }, null, 2)}\n`,
+    `${JSON.stringify({ databaseId, pageIds: currentPageIds }, null, 2)}\n`,
     'utf8',
   )
 
