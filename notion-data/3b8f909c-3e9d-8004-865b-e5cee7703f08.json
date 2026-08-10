@@ -2,7 +2,7 @@
   "object": "page",
   "id": "3b8f909c-3e9d-8004-865b-e5cee7703f08",
   "created_time": "2026-08-10T04:54:00.000Z",
-  "last_edited_time": "2026-08-10T05:39:00.000Z",
+  "last_edited_time": "2026-08-10T06:16:00.000Z",
   "created_by": {
     "object": "user",
     "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -48,8 +48,8 @@
           "name": "스크린샷 2026-08-10 110719.png",
           "type": "file",
           "file": {
-            "url": "https://prod-files-secure-apne2.s3.ap-northeast-2.amazonaws.com/abef909c-3e9d-81f7-8928-000356ef3a91/461098ef-c500-4c44-88ee-171cbefe7de0/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-08-10_110719.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4663CRWZCGO%2F20260810%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Date=20260810T060400Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLW5vcnRoZWFzdC0yIkgwRgIhAJwQy5ZW01lfCfhKQfoZxfx%2FwnDm4I%2FfedUteQhGWBXvAiEA9AvYYObneFSsQqGDiwx5slooebE5Y%2F2fN2UK1V2WmiEqjwQIl%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDC7S7JCtX%2BOVMznGGyrjA4Og1bYbODuCuV%2BTbnjCgQWx5nvVBkvVCHtxrWnXxz2E8niWzW7ey7RBvMWG4xoRjUULYsX0mPmHO0LEuxyppGjMGpWlj%2Bf9ssH9%2FCThs5EsXeE6r%2B6%2F%2FA1c5AmnoBo2IXqFv%2FxQ%2BWWRB6kIE65taPWm%2Bx6QsL0s9oV73Un9f41TrzmzRMqpYDpwHsvkMckwPzOgHJATgiAv650cvajBT7%2FTpItMx%2BRuSc3UUiCkHQ2v9lZWnoOdOcabzZYT2XP1%2BrsI16Le%2BDTX4owN8%2BGDA1WZ%2B%2FpoeyHB9Vk1K1iklGbkCtz9ox8K8eKT%2FJhbzKHXGABBsIlqRcTmlaMIsRnR%2BHwcKhj7a3f%2FzH0r6IVp%2FGNw%2FgRa7cXZtI7sSmZ66gIQfCD7KRQLGZBTyH7QFUvetRkubhDluUoyYzPzlsyiRLGkyRp7ee7%2FTv4iQCJHQzQVln6FHjHW0gRCNh7wA%2Fj%2BlJvdU3WtFFxeKgSn2bfppok9%2Bd6GzMBkMuBW0Geuota7avxgSKp39MaBG5bT9YNVC8PH2aUdJyeQIycm9s9JKDdE6qpqN8aWXBGSes8MbKOPDeIywjPWC32VRAI7C9%2BUJGhiGtuK%2F%2FbglG4rXFBigltfcdtl93Th0PLka5gdLclgCUriLTC0yOXTBjqkAeVK9X7ZCfvXYZYpIeFPa1cFBCtsMRmY8WciMdHbdpabdV0lHf9mXkFyv9PhhKQ0ayJVtUVpTW46RvMtZG0vnUls3l30eFtamWAzdUtoKLgX4UlBbR9aFDo3lvpxoekbO9Ouz4NmBkLIGT0aSdQiiNkPsZC2eJ1Y6kLiFQGpRhnm0p83gUgrhBOiO3FzSnFX2AOaNeta6gt8H793AlbaeVkbu46F&X-Amz-Signature=10f0e7ecc190adadfbc1ef79b11fb5a76832300791fb648752b436c681aecadf&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-            "expiry_time": "2026-08-10T07:04:00.257Z"
+            "url": "https://prod-files-secure-apne2.s3.ap-northeast-2.amazonaws.com/abef909c-3e9d-81f7-8928-000356ef3a91/461098ef-c500-4c44-88ee-171cbefe7de0/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-08-10_110719.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4663BP4IJ7A%2F20260810%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Date=20260810T062638Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLW5vcnRoZWFzdC0yIkgwRgIhAL6IBCGQzhNBgweED0S%2BEaKUq7AcwGERWT%2BS4oHSnCaNAiEA1YlmLRl48XZvX0lul7GZs2ryelqBd2daxOshytQff4kqjwQIl%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDPk3M4B6iGZcLRY29CrjA8RBUe67v1xceENvn6BdzkW9d1GUY2M92yV5YiNeQYY4GAhMKd5cocoK5%2FGscnUboApu0Dnv6Z7Plu8elfN7a%2F%2B8kHgMooDPhvt20ES27Kh03m0omvPKlAslubLPidRQTyflTKKo%2BNEwvNuNgb8szSkGD0Wk2aiDnMTsDsqqkJ2MC5hovkheRVyPShfGW0TVjsuhGDSGZ8xU4vI8BNCABgjbh0%2FsvCb1AN%2F%2FRE5dwgfuEUxAzhv6KpaSrkBxwrjhEv0U2CpE15cwdIuJtBePNez7mWnAt6QuO9K8R2B10kXzTfDTeWGE3ZRbCGsjT7XqlbSC1kze2vWfIwJLlLfChUXeyASNNkvPcikIMQsABrJU7pRPaYVoU0npj9JQiylsepeMtihLXQIrN6IL96v7XVZsBtEOTBqQLsN7IcCDIvQpaPMwRrOCR3a%2BJcjqw8N81KdmRUj34iBhPS8mMO%2FjVmXzSzvt6WOoxvPXKmUjQrQY2cFzcLFDiYcqTxHcDVrkcCqvoqxlUs1ZSWRlfZ0DyaZ43aaL8efLR0%2BlEv8eqoGVTEG9b%2BxVKtFdnrBTzg9UDyqn9Yid9fhubaHzUZKWcVJDynSXVv38%2BSu%2BEf%2BmAGPY25o9uGzb10MAmdBF452o76p1BTDpyeXTBjqkATRlgo3JlpsNTxt%2Bn%2FYqKUJEu664I7K00EXxrVxxcFS7CiZsVHIaYbzPdkZSnVM2pxoTfX0vtIq01Xx6EO%2BOjGJwpY2C7pvsPYHbCaPswkuOQTn%2Fvp9NAZg1R1P9rgCPXqef2Btg4OpxDxhBn3QstjfwvdE9kn6AAMJBubFI5M9FQG6BY%2Buso4DaIwrCt2f1TwVlMoACkw0fTh1egdnOXFaM15rH&X-Amz-Signature=7b3f53e924e5ebc2473c2f577c59582de02a280c32da19947a61d5e0d9354617&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+            "expiry_time": "2026-08-10T07:26:38.215Z"
           }
         }
       ]
@@ -118,7 +118,7 @@
         {
           "type": "text",
           "text": {
-            "content": "테스트 글",
+            "content": "C#의 전략과 실행 구조",
             "link": null
           },
           "annotations": {
@@ -126,16 +126,16 @@
             "italic": false,
             "strikethrough": false,
             "underline": false,
-            "code": true,
+            "code": false,
             "color": "default"
           },
-          "plain_text": "테스트 글",
+          "plain_text": "C#의 전략과 실행 구조",
           "href": null
         }
       ]
     }
   },
-  "url": "https://app.notion.com/p/3b8f909c3e9d8004865be5cee7703f08",
+  "url": "https://app.notion.com/p/C-3b8f909c3e9d8004865be5cee7703f08",
   "public_url": null,
   "archived": false,
   "blocks": [
@@ -147,7 +147,7 @@
         "page_id": "3b8f909c-3e9d-8004-865b-e5cee7703f08"
       },
       "created_time": "2026-08-10T05:15:00.000Z",
-      "last_edited_time": "2026-08-10T05:15:00.000Z",
+      "last_edited_time": "2026-08-10T06:15:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -158,30 +158,99 @@
       },
       "has_children": false,
       "in_trash": false,
-      "type": "paragraph",
-      "paragraph": {
+      "type": "heading_1",
+      "heading_1": {
         "rich_text": [
           {
             "type": "text",
             "text": {
-              "content": "C#의 구조",
+              "content": "C#의 전략과 실행 구조",
               "link": null
             },
             "annotations": {
-              "bold": true,
+              "bold": false,
               "italic": false,
               "strikethrough": false,
               "underline": false,
               "code": false,
               "color": "default"
             },
-            "plain_text": "C#의 구조",
+            "plain_text": "C#의 전략과 실행 구조",
             "href": null
           }
         ],
-        "icon": null,
+        "is_toggleable": false,
         "color": "default"
       },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b8f909c-3e9d-80e3-8e96-c307b4c132a8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-8004-865b-e5cee7703f08"
+      },
+      "created_time": "2026-08-10T06:16:00.000Z",
+      "last_edited_time": "2026-08-10T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "C#은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "C#은 ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b8f909c-3e9d-805a-a30e-c23635c9c024",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-8004-865b-e5cee7703f08"
+      },
+      "created_time": "2026-08-10T06:15:00.000Z",
+      "last_edited_time": "2026-08-10T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
       "archived": false,
       "blocks": []
     },

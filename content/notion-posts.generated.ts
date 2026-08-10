@@ -5,7 +5,7 @@ import type { Post } from './post'
 const notionPosts: Post[] = [
   {
     "notionPageId": "3b8f909c-3e9d-8004-865b-e5cee7703f08",
-    "title": "테스트 글",
+    "title": "C#의 전략과 실행 구조",
     "slug": "test-post",
     "date": "2026-08-10",
     "description": "자동화를 확인하기 위한 글입니다.",
