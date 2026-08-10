@@ -250,6 +250,82 @@ function setImageBlockUrl(block, url) {
   }
 }
 
+const SUPPORTED_BLOCK_TYPES = new Set([
+  'heading_1',
+  'heading_2',
+  'heading_3',
+  'paragraph',
+  'bulleted_list_item',
+  'toggle',
+  'equation',
+  'numbered_list_item',
+  'quote',
+  'callout',
+  'divider',
+  'image',
+  'video',
+  'column',
+  'column_list',
+  'code',
+  'to_do',
+  'table',
+  'table_row',
+])
+
+function fallbackRichText(content, url) {
+  if (!content) return []
+
+  return [
+    {
+      type: 'text',
+      text: {
+        content,
+        link: url ? { url } : null,
+      },
+      annotations: {
+        bold: false,
+        italic: false,
+        strikethrough: false,
+        underline: false,
+        code: false,
+        color: 'default',
+      },
+      plain_text: content,
+      href: url || null,
+    },
+  ]
+}
+
+function sanitizeBlocks(blocks) {
+  return blocks.map((block) => {
+    const children = sanitizeBlocks(block.blocks || [])
+
+    if (SUPPORTED_BLOCK_TYPES.has(block.type)) {
+      return { ...block, blocks: children }
+    }
+
+    const value = block[block.type] || {}
+    const existingRichText = value.rich_text || value.caption || []
+    const url = value.url || value.external?.url || value.file?.url
+    const label = value.title || value.name || url || ''
+    const richText = existingRichText.length
+      ? existingRichText
+      : fallbackRichText(label, url)
+
+    console.warn(`Converted unsupported Notion block to paragraph: ${block.type}`)
+
+    return {
+      ...block,
+      type: 'paragraph',
+      paragraph: {
+        rich_text: richText,
+        color: 'default',
+      },
+      blocks: children,
+    }
+  })
+}
+
 async function localizeBlockImages(blocks, pageId, imageDirectory) {
   for (const block of blocks) {
     const sourceUrl = imageBlockUrl(block)
@@ -278,7 +354,7 @@ async function syncPage(page) {
   await rm(imageDirectory, { recursive: true, force: true })
   await mkdir(imageDirectory, { recursive: true })
 
-  const blocks = await fetchBlocks(pageId)
+  const blocks = sanitizeBlocks(await fetchBlocks(pageId))
   await localizeBlockImages(blocks, pageId, imageDirectory)
 
   let image
