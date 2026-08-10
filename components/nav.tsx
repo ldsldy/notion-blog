@@ -9,9 +9,6 @@ const navItems = {
   '/blog': {
     name: 'blog',
   },
-  '/guide': {
-    name: 'guide',
-  },
   'https://github.com/ldsldy': {
     name: 'github',
   },
