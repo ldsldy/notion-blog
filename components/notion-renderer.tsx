@@ -15,6 +15,21 @@ type FallbackBlockProps = {
   [key: string]: any
 }
 
+function normalizeBlocks(blocks: any[]): any[] {
+  return blocks.map((block) => ({
+    ...block,
+    ...(block.type === 'callout' && !block.callout?.icon
+      ? {
+          callout: {
+            ...block.callout,
+            icon: { type: 'emoji', emoji: '💡' },
+          },
+        }
+      : {}),
+    blocks: normalizeBlocks(block.blocks || []),
+  }))
+}
+
 function FallbackBlock({ type, children, ...block }: FallbackBlockProps) {
   const value = block[type] ?? {}
   const richText = value.rich_text ?? value.caption ?? []
@@ -50,7 +65,7 @@ export default function NotionRenderer({ post }: { post: NotionPost }) {
       <Notion.Cover src={post.image} />
       <Notion.Body>
         <Notion.Title title={post.title} />
-        <Notion.Blocks blocks={post.content.blocks} />
+        <Notion.Blocks blocks={normalizeBlocks(post.content.blocks)} />
       </Notion.Body>
     </Notion>
   )
