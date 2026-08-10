@@ -3,6 +3,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "sync:notion": "node scripts/sync-notion.mjs",
     "start": "next start"
   },
   "devDependencies": {
