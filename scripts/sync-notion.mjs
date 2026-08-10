@@ -104,7 +104,7 @@ async function queryPublishedPages(dataSourceId) {
       body: JSON.stringify({
         filter: {
           property: PROPERTY_NAMES.status,
-          status: { equals: PUBLISHED_STATUS },
+          select: { equals: PUBLISHED_STATUS },
         },
         sorts: [
           {
@@ -166,7 +166,7 @@ function validateAndReadProperties(page) {
   const properties = page.properties || {}
   const title = richTextValue(properties[PROPERTY_NAMES.title])
   const slug = richTextValue(properties[PROPERTY_NAMES.slug])
-  const status = properties[PROPERTY_NAMES.status]?.status?.name
+  const status = properties[PROPERTY_NAMES.status]?.select?.name
   const publishedAt = properties[PROPERTY_NAMES.publishedAt]?.date?.start
   const description = richTextValue(properties[PROPERTY_NAMES.description])
   const thumbnailFiles = properties[PROPERTY_NAMES.thumbnail]?.files || []
