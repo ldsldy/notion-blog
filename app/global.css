@@ -210,6 +210,7 @@ table {
 .notion-custom-callout {
   align-items: flex-start;
   gap: 0.5rem;
+  padding-top: 0.75rem;
 }
 
 .notion-custom-callout-icon {
@@ -244,6 +245,10 @@ table {
 
 .notion-custom-callout-children > .notion-block {
   margin-left: 0;
+}
+
+.notion-custom-callout-children > .notion-block:first-child {
+  margin-top: 0;
 }
 
 .notion-custom-callout-text + .notion-custom-callout-children {
