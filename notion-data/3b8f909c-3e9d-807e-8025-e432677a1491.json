@@ -2,7 +2,7 @@
   "object": "page",
   "id": "3b8f909c-3e9d-807e-8025-e432677a1491",
   "created_time": "2026-08-10T08:37:00.000Z",
-  "last_edited_time": "2026-08-11T02:58:00.000Z",
+  "last_edited_time": "2026-08-11T04:28:00.000Z",
   "created_by": {
     "object": "user",
     "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -48,8 +48,8 @@
           "name": "스크린샷 2026-08-10 110719.png",
           "type": "file",
           "file": {
-            "url": "https://prod-files-secure-apne2.s3.ap-northeast-2.amazonaws.com/abef909c-3e9d-81f7-8928-000356ef3a91/6a3f2ad2-5e18-4aef-8ee2-58fb812800fc/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-08-10_110719.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4664H5WTG4Y%2F20260811%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Date=20260811T033153Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLW5vcnRoZWFzdC0yIkcwRQIgMZXhNde%2FQ4%2FK8XS%2BuphTEEb9H4iTOG9EsnJJbHp1cDICIQCI2q8XyYSB%2FYYUScJXQdNKPRGErH7ENX2xorJEY8wL7SqPBAis%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIM7FZ9ss9tSj0gj0%2FWKuMDQ%2B081INBGKEIydfoX0hRDzGbBZjEVAozGgZ4lxTmZaxbX2B4ja7xpEiehv8apx7G7kFAWwVAGPn1%2FAK%2FU12irj7u52KOg%2FlIy8xH8H9Y9RBucdQYDq7MqjHUvAU9WiNcXzgM%2FzYPF7AGABjepWPtJ%2FkRafatOM%2BZYec%2BYrn1cCCpzqDcRVzInzT%2Bh%2Bm7DMYjM7XGbI2xitwVcnyolxOAyyAsdx%2BXfKitFIsfTz1fSsALeOMLCliTxA0PGGb9g1hB%2B5GkfFTRz8zbzUxwXii%2FE9P%2FkhCiOgqnN2Elvms7YIsfnASqtQfGkrM3j3y3zFaZdM59oUfEAmf4pKmvea280uLKxAwJjo8%2FI9IkepXzA7TiIMWxIi%2BOs2g67%2BuMbjsBTho%2BPjlbPqCQaJUM%2Bw55JY9gcwDvdd8i1LkzHkQKLgAaiuf0quNkKwekNg%2BFwON4pLqrx%2BRJPxiO2Blx2JHAWKsdSkw8SEbFQzlshWrLDd5y5W8eiEQAul2DK5%2BFJGRogP01fAFFCoaQ86h%2FOlxhaKCon7lZ00AxOkyIRKEJ%2FFOo5JFMp7xgcGTZlgdmECms%2BpBsybLdvXGsOYFOLtvNWT8EXTR03PtyXj3%2FJbdUtqDTX1G0Ib3066Td%2FLbycIw%2BYD2%2FMKen6tMGOqUBT%2FJRN%2B2u8lBnmAfKbGFXcBDQ%2BgbrzGW9i305D6ddSAk7kG%2BKHTw46OArZy1HEwlyGbAiNfzZmXLeVTirR8c%2BLXk9h%2BAZGcuwyZ4%2Fcyod9wJ7rbV6qphLZ9JLdcBb5Zdu5AGyZu9OYuf4JFpq8CZuPh4LL2fU%2BCLEHophstxflfL4TeKhXWz2OXuxKHtfALeSyH0dZFlKUt9PeH%2F83UDyjf%2Bwce8k&X-Amz-Signature=7eaffa708e179af7b56a179132bf38aed8351821a0d9e7b565385b01bacde423&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-            "expiry_time": "2026-08-11T04:31:53.585Z"
+            "url": "https://prod-files-secure-apne2.s3.ap-northeast-2.amazonaws.com/abef909c-3e9d-81f7-8928-000356ef3a91/6a3f2ad2-5e18-4aef-8ee2-58fb812800fc/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-08-10_110719.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VNDFIRUU%2F20260811%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Date=20260811T042901Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLW5vcnRoZWFzdC0yIkgwRgIhAIMrFPXkbJbURlJRPVKU47TBKmDmPZt76fW%2BePTaP7BpAiEAnyVCutfPzHiUcDoBVvhWNApZci%2BFeGY4OxATtMm4dEkqjwQIrP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDEHqNiIj41PP%2BrAEGyrjA4JUlsKXxt%2FqDasPNas6gvXcuzgqFxMFObKLGlDPfWmIkWWSL1MCHHE9PoLoeRitA%2BojCNwcLTcJ2vsFoQ%2FaeZYUze7UMIwCnsJLMfknXxSeuq6JUEoMXZfbOMUuj%2BNbrtyhak42W1DTbkSQzUpIKIOz5p%2FzZzK%2B4j56fzUwHC0aHiQu39GqLp6NNmOLZ2im0bEx6GDRwIhGbVoZXrSz9oEOg1IyWxmD2nS1Sy%2BU%2BB9aLrFXNZHW4hgHyZM6bY4xeF1Q4eRdCr1F4vS4lCfDMSRJJiLtUK8F6Sxh3Wu5aW9mLNMCCGe%2BnaoW17roO8eXFkOebmxjRymRzgooeKB2d7xn1s9SeO6ocgkCaLMHeoTVBBJ0hKKfwzAVfYQkwVCDxwCC5a%2F1E67snkbL1mM%2FdDD3ByaMLctnSpYZUxKG1qAtkbAgQk6588jSdXS3Ory1ETQ4VMUhrmXPiEobjyMf6t%2BSaGalT2pOh%2F%2BPyo7vVNm3P8f1%2BMO9xZ0s5ZKHJ638ezyN1u2Uwre%2BaUItUJlCLT4KuqRoS9MXnbQd5fWynzqy%2F4JOY2e%2Bl7vEzBVSbpRgb7%2BDqUY%2FC8ANPkhODjqe2fsf%2BQOx4%2BXv57OBUAKd1y10qXw9pxik7D4qnkdohRkQRfGE3DCkqerTBjqkAWxk4ToPFea1YF4BmaODkO%2BYMxB36V5%2FI9ShGdBhM4tsBYjTAbG31vsUY7hKN%2FnOtde4z0ufpFsvXgqswNz%2FpeIftp1iNxlB03cWp52xQWjxXMHG5F3ko7U9D21gy8cBw29dqik%2BlYS4p%2F0O%2FZX1l2xaY5v4X3bOy0tOj4OM5WdKMBEZg5j6fFOR1MCsaNPsAViHP68QYJ8yWPqAwxOOP2G2zW4%2F&X-Amz-Signature=7afdbd702392f983ebabf4649fb02acdea84a726af489c2dbaa20f9b0be5f526&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+            "expiry_time": "2026-08-11T05:29:01.130Z"
           }
         }
       ]
@@ -542,7 +542,7 @@
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
       "created_time": "2026-08-10T08:54:00.000Z",
-      "last_edited_time": "2026-08-10T09:04:00.000Z",
+      "last_edited_time": "2026-08-11T04:28:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -1947,7 +1947,7 @@
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
       "created_time": "2026-08-10T08:54:00.000Z",
-      "last_edited_time": "2026-08-11T01:07:00.000Z",
+      "last_edited_time": "2026-08-11T04:28:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -4287,7 +4287,7 @@
                 "block_id": "3b9f909c-3e9d-8044-9379-d76ccaedb988"
               },
               "created_time": "2026-08-11T02:57:00.000Z",
-              "last_edited_time": "2026-08-11T02:58:00.000Z",
+              "last_edited_time": "2026-08-11T04:00:00.000Z",
               "created_by": {
                 "object": "user",
                 "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -4302,10 +4302,9 @@
               "paragraph": {
                 "rich_text": [
                   {
-                    "type": "text",
-                    "text": {
-                      "content": "$$\\scriptsize\\bf t $$",
-                      "link": null
+                    "type": "equation",
+                    "equation": {
+                      "expression": "\\scriptsize\\bf C\\#~컴파일러가~소스를~분석해~CIL,~타입~메타데이터,~매니페스트를~만든다."
                     },
                     "annotations": {
                       "bold": false,
@@ -4315,12 +4314,12 @@
                       "code": false,
                       "color": "default"
                     },
-                    "plain_text": "$$\\scriptsize\\bf t $$",
+                    "plain_text": "\\scriptsize\\bf C\\#~컴파일러가~소스를~분석해~CIL,~타입~메타데이터,~매니페스트를~만든다.",
                     "href": null
                   }
                 ],
                 "icon": null,
-                "color": "default"
+                "color": "gray"
               },
               "archived": false,
               "blocks": []
@@ -4482,7 +4481,7 @@
                 "block_id": "3b9f909c-3e9d-80e0-bd21-cf28f4d364c1"
               },
               "created_time": "2026-08-11T02:45:00.000Z",
-              "last_edited_time": "2026-08-11T02:45:00.000Z",
+              "last_edited_time": "2026-08-11T04:04:00.000Z",
               "created_by": {
                 "object": "user",
                 "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -4499,7 +4498,7 @@
                   {
                     "type": "text",
                     "text": {
-                      "content": "C#은 Java와 관리형 실행 모델을 공유한다. ",
+                      "content": "CLR이 파일을 로드",
                       "link": null
                     },
                     "annotations": {
@@ -4510,7 +4509,7 @@
                       "code": false,
                       "color": "default"
                     },
-                    "plain_text": "C#은 Java와 관리형 실행 모델을 공유한다. ",
+                    "plain_text": "CLR이 파일을 로드",
                     "href": null
                   }
                 ],
@@ -4528,7 +4527,7 @@
                 "block_id": "3b9f909c-3e9d-80e0-bd21-cf28f4d364c1"
               },
               "created_time": "2026-08-11T02:45:00.000Z",
-              "last_edited_time": "2026-08-11T02:45:00.000Z",
+              "last_edited_time": "2026-08-11T04:01:00.000Z",
               "created_by": {
                 "object": "user",
                 "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -4543,10 +4542,9 @@
               "paragraph": {
                 "rich_text": [
                   {
-                    "type": "text",
-                    "text": {
-                      "content": "C++과는 저수준 제어와 자원 관리 철학에서 큰 차이가 난다.",
-                      "link": null
+                    "type": "equation",
+                    "equation": {
+                      "expression": "\\scriptsize\\bf 매니페스트와~메타데이터를~이용해~타입,~멤버,~외부~참조를~파악한다."
                     },
                     "annotations": {
                       "bold": false,
@@ -4556,12 +4554,12 @@
                       "code": false,
                       "color": "default"
                     },
-                    "plain_text": "C++과는 저수준 제어와 자원 관리 철학에서 큰 차이가 난다.",
+                    "plain_text": "\\scriptsize\\bf 매니페스트와~메타데이터를~이용해~타입,~멤버,~외부~참조를~파악한다.",
                     "href": null
                   }
                 ],
                 "icon": null,
-                "color": "default"
+                "color": "gray"
               },
               "archived": false,
               "blocks": []
@@ -4723,7 +4721,7 @@
                 "block_id": "3b9f909c-3e9d-802a-905d-c00a450011f8"
               },
               "created_time": "2026-08-11T02:45:00.000Z",
-              "last_edited_time": "2026-08-11T02:45:00.000Z",
+              "last_edited_time": "2026-08-11T04:04:00.000Z",
               "created_by": {
                 "object": "user",
                 "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -4740,7 +4738,7 @@
                   {
                     "type": "text",
                     "text": {
-                      "content": "어느 언어가 절대적으로 우월한 것은 아니다. ",
+                      "content": "JIT이 메서드를 변환",
                       "link": null
                     },
                     "annotations": {
@@ -4751,7 +4749,7 @@
                       "code": false,
                       "color": "default"
                     },
-                    "plain_text": "어느 언어가 절대적으로 우월한 것은 아니다. ",
+                    "plain_text": "JIT이 메서드를 변환",
                     "href": null
                   }
                 ],
@@ -4769,7 +4767,7 @@
                 "block_id": "3b9f909c-3e9d-802a-905d-c00a450011f8"
               },
               "created_time": "2026-08-11T02:45:00.000Z",
-              "last_edited_time": "2026-08-11T02:45:00.000Z",
+              "last_edited_time": "2026-08-11T04:03:00.000Z",
               "created_by": {
                 "object": "user",
                 "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -4784,10 +4782,9 @@
               "paragraph": {
                 "rich_text": [
                   {
-                    "type": "text",
-                    "text": {
-                      "content": "런타임의 편의, 제어 수준, 생태계, 배포 환경에 따라 선택이 달라진다.",
-                      "link": null
+                    "type": "equation",
+                    "equation": {
+                      "expression": "\\scriptsize\\bf 처음~호출된~Add의~CIL을~현재~CPU용~네이티브~코드로~만든다."
                     },
                     "annotations": {
                       "bold": false,
@@ -4797,12 +4794,12 @@
                       "code": false,
                       "color": "default"
                     },
-                    "plain_text": "런타임의 편의, 제어 수준, 생태계, 배포 환경에 따라 선택이 달라진다.",
+                    "plain_text": "\\scriptsize\\bf 처음~호출된~Add의~CIL을~현재~CPU용~네이티브~코드로~만든다.",
                     "href": null
                   }
                 ],
                 "icon": null,
-                "color": "default"
+                "color": "gray"
               },
               "archived": false,
               "blocks": []
@@ -4832,6 +4829,531 @@
       "in_trash": false,
       "type": "divider",
       "divider": {},
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-80f1-adf4-c0226745d133",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:04:00.000Z",
+      "last_edited_time": "2026-08-11T04:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "archived": false,
+      "blocks": [
+        {
+          "object": "block",
+          "id": "3b9f909c-3e9d-80ed-b91e-f483c467eb65",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3b9f909c-3e9d-80f1-adf4-c0226745d133"
+          },
+          "created_time": "2026-08-11T04:04:00.000Z",
+          "last_edited_time": "2026-08-11T04:04:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.0625
+          },
+          "archived": false,
+          "blocks": [
+            {
+              "object": "block",
+              "id": "3b9f909c-3e9d-80b0-bfc5-e623ec9faad1",
+              "parent": {
+                "type": "block_id",
+                "block_id": "3b9f909c-3e9d-80ed-b91e-f483c467eb65"
+              },
+              "created_time": "2026-08-11T04:04:00.000Z",
+              "last_edited_time": "2026-08-11T04:05:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "heading_3",
+              "heading_3": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "05",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "05",
+                    "href": null
+                  }
+                ],
+                "is_toggleable": false,
+                "color": "gray"
+              },
+              "archived": false,
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "3b9f909c-3e9d-8050-93ff-d6075ca8b745",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3b9f909c-3e9d-80f1-adf4-c0226745d133"
+          },
+          "created_time": "2026-08-11T04:04:00.000Z",
+          "last_edited_time": "2026-08-11T04:04:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.9375
+          },
+          "archived": false,
+          "blocks": [
+            {
+              "object": "block",
+              "id": "3b9f909c-3e9d-80d8-bf55-d4a494bd52c0",
+              "parent": {
+                "type": "block_id",
+                "block_id": "3b9f909c-3e9d-8050-93ff-d6075ca8b745"
+              },
+              "created_time": "2026-08-11T04:04:00.000Z",
+              "last_edited_time": "2026-08-11T04:04:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "heading_4",
+              "heading_4": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "CPU가 기계어 실행",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "CPU가 기계어 실행",
+                    "href": null
+                  }
+                ],
+                "is_toggleable": false,
+                "color": "default"
+              },
+              "archived": false,
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "3b9f909c-3e9d-801f-aa60-df1bf3bd154c",
+              "parent": {
+                "type": "block_id",
+                "block_id": "3b9f909c-3e9d-8050-93ff-d6075ca8b745"
+              },
+              "created_time": "2026-08-11T04:04:00.000Z",
+              "last_edited_time": "2026-08-11T04:05:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "equation",
+                    "equation": {
+                      "expression": "\\scriptsize\\bf 이제서야~프로세서가~실제~덧셈~명령을~수행하고~결과를~반환한다."
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\\scriptsize\\bf 이제서야~프로세서가~실제~덧셈~명령을~수행하고~결과를~반환한다.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "gray"
+              },
+              "archived": false,
+              "blocks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-8001-b1c3-fdc03f430db5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:06:00.000Z",
+      "last_edited_time": "2026-08-11T04:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "external",
+        "external": {
+          "url": "/notion-data/3b8f909c-3e9d-807e-8025-e432677a1491/image-3b9f909c3e9d8001b1c3fdc03f430db5.png"
+        }
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-80e5-8858-c76e14ddd0a0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:08:00.000Z",
+      "last_edited_time": "2026-08-11T04:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-802e-bdf3-d12754a668ab",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:06:00.000Z",
+      "last_edited_time": "2026-08-11T04:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "07. 기계어 변환을 꼭 실행 중에 해야 할까?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "07. 기계어 변환을 꼭 실행 중에 해야 할까?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-8095-8270-d5e774d5f6ca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:08:00.000Z",
+      "last_edited_time": "2026-08-11T04:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "JIT은 실행하면서 필요한 코드를 만든다. 반대로 실행 전에 네이티브 코드를 준비하는 AOT도 있다. 컴파일 시점이 달라지면 시작 시간, 장시간 실행 성능, 메모리, 파일 크기, 동적 기능과 배포 방식의 균형도 달라진다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "JIT은 실행하면서 필요한 코드를 만든다. 반대로 실행 전에 네이티브 코드를 준비하는 AOT도 있다. 컴파일 시점이 달라지면 시작 시간, 장시간 실행 성능, 메모리, 파일 크기, 동적 기능과 배포 방식의 균형도 달라진다.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "gray"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-8041-a53e-dc8fb92743e8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:25:00.000Z",
+      "last_edited_time": "2026-08-11T04:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-80c6-9e60-d7162b7af53f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:25:00.000Z",
+      "last_edited_time": "2026-08-11T04:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "external",
+        "external": {
+          "url": "/notion-data/3b8f909c-3e9d-807e-8025-e432677a1491/image-3b9f909c3e9d80c69e60d7162b7af53f.png"
+        }
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-805e-aeaf-fe53914710d5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:25:00.000Z",
+      "last_edited_time": "2026-08-11T04:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-803c-b388-d4cd437428d0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:25:00.000Z",
+      "last_edited_time": "2026-08-11T04:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "다음 편에서는 JIT과 AOT : \n코드를 언제 기계어로 만들 것인가에 대하여 더 자세하게 알아보도록 하겠다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "다음 편에서는 JIT과 AOT : \n코드를 언제 기계어로 만들 것인가에 대하여 더 자세하게 알아보도록 하겠다.",
+            "href": null
+          }
+        ],
+        "color": "gray"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-80a8-9352-edcf23ee3283",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:26:00.000Z",
+      "last_edited_time": "2026-08-11T04:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
       "archived": false,
       "blocks": []
     },
@@ -4889,7 +5411,7 @@
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
       "created_time": "2026-08-10T08:54:00.000Z",
-      "last_edited_time": "2026-08-10T08:54:00.000Z",
+      "last_edited_time": "2026-08-11T04:15:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -4906,7 +5428,7 @@
           {
             "type": "text",
             "text": {
-              "content": "이번 포스팅은 C#과 .NET에 대한 기초적인 지식에 대하여 알아 보았다. 아래는 이번 포스팅에서의 핵심 네 가지 문장이다.",
+              "content": "이번 포스팅은 C#이 어떻게 .NET을 통해 CPU에게까지 전달되는지에 대하여 알아보았다. 아래는 이번 포스팅에서의 핵심 다섯 가지 문장이다.",
               "link": null
             },
             "annotations": {
@@ -4917,12 +5439,12 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "이번 포스팅은 C#과 .NET에 대한 기초적인 지식에 대하여 알아 보았다. 아래는 이번 포스팅에서의 핵심 네 가지 문장이다.",
+            "plain_text": "이번 포스팅은 C#이 어떻게 .NET을 통해 CPU에게까지 전달되는지에 대하여 알아보았다. 아래는 이번 포스팅에서의 핵심 다섯 가지 문장이다.",
             "href": null
           }
         ],
         "icon": null,
-        "color": "default"
+        "color": "gray"
       },
       "archived": false,
       "blocks": []
@@ -4953,13 +5475,13 @@
     },
     {
       "object": "block",
-      "id": "3b8f909c-3e9d-8043-a71d-d494cb9b414e",
+      "id": "3b9f909c-3e9d-80ff-a647-df0a366f0c18",
       "parent": {
         "type": "page_id",
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
-      "created_time": "2026-08-10T08:54:00.000Z",
-      "last_edited_time": "2026-08-11T00:33:00.000Z",
+      "created_time": "2026-08-11T04:14:00.000Z",
+      "last_edited_time": "2026-08-11T04:14:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -4976,13 +5498,13 @@
       "blocks": [
         {
           "object": "block",
-          "id": "3b8f909c-3e9d-806a-a0e1-d42dd7aebbc3",
+          "id": "3b9f909c-3e9d-80b2-83c2-d9b6b02a7797",
           "parent": {
             "type": "block_id",
-            "block_id": "3b8f909c-3e9d-8043-a71d-d494cb9b414e"
+            "block_id": "3b9f909c-3e9d-80ff-a647-df0a366f0c18"
           },
-          "created_time": "2026-08-10T08:54:00.000Z",
-          "last_edited_time": "2026-08-11T00:33:00.000Z",
+          "created_time": "2026-08-11T04:14:00.000Z",
+          "last_edited_time": "2026-08-11T04:14:00.000Z",
           "created_by": {
             "object": "user",
             "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5001,13 +5523,13 @@
           "blocks": [
             {
               "object": "block",
-              "id": "3b8f909c-3e9d-80db-9a9f-c6f59b1c8c11",
+              "id": "3b9f909c-3e9d-8017-bce2-dcbbb752108e",
               "parent": {
                 "type": "block_id",
-                "block_id": "3b8f909c-3e9d-806a-a0e1-d42dd7aebbc3"
+                "block_id": "3b9f909c-3e9d-80b2-83c2-d9b6b02a7797"
               },
-              "created_time": "2026-08-10T08:54:00.000Z",
-              "last_edited_time": "2026-08-11T00:33:00.000Z",
+              "created_time": "2026-08-11T04:14:00.000Z",
+              "last_edited_time": "2026-08-11T04:14:00.000Z",
               "created_by": {
                 "object": "user",
                 "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5049,13 +5571,13 @@
         },
         {
           "object": "block",
-          "id": "3b8f909c-3e9d-8015-88ea-f418592a73dd",
+          "id": "3b9f909c-3e9d-80ad-acb2-c4d9eaa04f9a",
           "parent": {
             "type": "block_id",
-            "block_id": "3b8f909c-3e9d-8043-a71d-d494cb9b414e"
+            "block_id": "3b9f909c-3e9d-80ff-a647-df0a366f0c18"
           },
-          "created_time": "2026-08-10T08:54:00.000Z",
-          "last_edited_time": "2026-08-11T00:33:00.000Z",
+          "created_time": "2026-08-11T04:14:00.000Z",
+          "last_edited_time": "2026-08-11T04:15:00.000Z",
           "created_by": {
             "object": "user",
             "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5074,13 +5596,13 @@
           "blocks": [
             {
               "object": "block",
-              "id": "3b8f909c-3e9d-8060-b1a5-c9f3d77cc1b6",
+              "id": "3b9f909c-3e9d-807a-a40f-c29efccd1eb2",
               "parent": {
                 "type": "block_id",
-                "block_id": "3b8f909c-3e9d-8015-88ea-f418592a73dd"
+                "block_id": "3b9f909c-3e9d-80ad-acb2-c4d9eaa04f9a"
               },
-              "created_time": "2026-08-10T08:54:00.000Z",
-              "last_edited_time": "2026-08-11T00:33:00.000Z",
+              "created_time": "2026-08-11T04:14:00.000Z",
+              "last_edited_time": "2026-08-11T04:15:00.000Z",
               "created_by": {
                 "object": "user",
                 "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5097,7 +5619,7 @@
                   {
                     "type": "text",
                     "text": {
-                      "content": "C#은 언어이고 .NET은 플랫폼이다. ",
+                      "content": "C# 컴파일러는 일반적으로 CIL과 메타데이터가 담긴 .NET 어셈블리를 만든다.",
                       "link": null
                     },
                     "annotations": {
@@ -5108,57 +5630,11 @@
                       "code": false,
                       "color": "default"
                     },
-                    "plain_text": "C#은 언어이고 .NET은 플랫폼이다. ",
+                    "plain_text": "C# 컴파일러는 일반적으로 CIL과 메타데이터가 담긴 .NET 어셈블리를 만든다.",
                     "href": null
                   }
                 ],
                 "is_toggleable": false,
-                "color": "default"
-              },
-              "archived": false,
-              "blocks": []
-            },
-            {
-              "object": "block",
-              "id": "3b8f909c-3e9d-80d6-8a58-d7e7fde4b92b",
-              "parent": {
-                "type": "block_id",
-                "block_id": "3b8f909c-3e9d-8015-88ea-f418592a73dd"
-              },
-              "created_time": "2026-08-10T08:54:00.000Z",
-              "last_edited_time": "2026-08-11T00:33:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-              },
-              "has_children": false,
-              "in_trash": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "둘은 강하게 결합되어 있지만 동일한 개념은 아니다.",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "둘은 강하게 결합되어 있지만 동일한 개념은 아니다.",
-                    "href": null
-                  }
-                ],
-                "icon": null,
                 "color": "default"
               },
               "archived": false,
@@ -5170,13 +5646,13 @@
     },
     {
       "object": "block",
-      "id": "3b8f909c-3e9d-8093-b1cb-d4bd907eed5c",
+      "id": "3b9f909c-3e9d-8038-a2e3-f6bfea93f941",
       "parent": {
         "type": "page_id",
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
-      "created_time": "2026-08-10T08:54:00.000Z",
-      "last_edited_time": "2026-08-10T08:54:00.000Z",
+      "created_time": "2026-08-11T04:14:00.000Z",
+      "last_edited_time": "2026-08-11T04:14:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5194,13 +5670,13 @@
     },
     {
       "object": "block",
-      "id": "3b8f909c-3e9d-8013-af85-e28ad91114b0",
+      "id": "3b9f909c-3e9d-8071-a030-d35786f6a164",
       "parent": {
         "type": "page_id",
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
-      "created_time": "2026-08-10T08:54:00.000Z",
-      "last_edited_time": "2026-08-10T08:54:00.000Z",
+      "created_time": "2026-08-11T04:14:00.000Z",
+      "last_edited_time": "2026-08-11T04:14:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5217,13 +5693,13 @@
       "blocks": [
         {
           "object": "block",
-          "id": "3b8f909c-3e9d-80e6-8589-f02e4928ae2b",
+          "id": "3b9f909c-3e9d-80e9-b537-e2e0f305c06b",
           "parent": {
             "type": "block_id",
-            "block_id": "3b8f909c-3e9d-8013-af85-e28ad91114b0"
+            "block_id": "3b9f909c-3e9d-8071-a030-d35786f6a164"
           },
-          "created_time": "2026-08-10T08:54:00.000Z",
-          "last_edited_time": "2026-08-10T08:54:00.000Z",
+          "created_time": "2026-08-11T04:14:00.000Z",
+          "last_edited_time": "2026-08-11T04:14:00.000Z",
           "created_by": {
             "object": "user",
             "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5242,13 +5718,13 @@
           "blocks": [
             {
               "object": "block",
-              "id": "3b8f909c-3e9d-80df-b930-d53516c446f9",
+              "id": "3b9f909c-3e9d-801b-91fe-cd878e29f610",
               "parent": {
                 "type": "block_id",
-                "block_id": "3b8f909c-3e9d-80e6-8589-f02e4928ae2b"
+                "block_id": "3b9f909c-3e9d-80e9-b537-e2e0f305c06b"
               },
-              "created_time": "2026-08-10T08:54:00.000Z",
-              "last_edited_time": "2026-08-10T08:54:00.000Z",
+              "created_time": "2026-08-11T04:14:00.000Z",
+              "last_edited_time": "2026-08-11T04:14:00.000Z",
               "created_by": {
                 "object": "user",
                 "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5290,13 +5766,13 @@
         },
         {
           "object": "block",
-          "id": "3b8f909c-3e9d-8002-bcf0-f183865b5f5e",
+          "id": "3b9f909c-3e9d-8063-9c77-d6507eb2209a",
           "parent": {
             "type": "block_id",
-            "block_id": "3b8f909c-3e9d-8013-af85-e28ad91114b0"
+            "block_id": "3b9f909c-3e9d-8071-a030-d35786f6a164"
           },
-          "created_time": "2026-08-10T08:54:00.000Z",
-          "last_edited_time": "2026-08-10T08:54:00.000Z",
+          "created_time": "2026-08-11T04:14:00.000Z",
+          "last_edited_time": "2026-08-11T04:15:00.000Z",
           "created_by": {
             "object": "user",
             "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5315,13 +5791,13 @@
           "blocks": [
             {
               "object": "block",
-              "id": "3b8f909c-3e9d-8074-a560-f8147a5a935d",
+              "id": "3b9f909c-3e9d-8069-ac4e-e872e5f76ea5",
               "parent": {
                 "type": "block_id",
-                "block_id": "3b8f909c-3e9d-8002-bcf0-f183865b5f5e"
+                "block_id": "3b9f909c-3e9d-8063-9c77-d6507eb2209a"
               },
-              "created_time": "2026-08-10T08:54:00.000Z",
-              "last_edited_time": "2026-08-10T08:54:00.000Z",
+              "created_time": "2026-08-11T04:14:00.000Z",
+              "last_edited_time": "2026-08-11T04:15:00.000Z",
               "created_by": {
                 "object": "user",
                 "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5338,7 +5814,7 @@
                   {
                     "type": "text",
                     "text": {
-                      "content": "C#은 보통 CIL로 컴파일된다. ",
+                      "content": "CIL은 특정 CPU가 아닌 CIL의 스택 기반 실행 모델을 위한 중간 명령이다.",
                       "link": null
                     },
                     "annotations": {
@@ -5349,57 +5825,11 @@
                       "code": false,
                       "color": "default"
                     },
-                    "plain_text": "C#은 보통 CIL로 컴파일된다. ",
+                    "plain_text": "CIL은 특정 CPU가 아닌 CIL의 스택 기반 실행 모델을 위한 중간 명령이다.",
                     "href": null
                   }
                 ],
                 "is_toggleable": false,
-                "color": "default"
-              },
-              "archived": false,
-              "blocks": []
-            },
-            {
-              "object": "block",
-              "id": "3b8f909c-3e9d-8039-8b56-f48f152947bf",
-              "parent": {
-                "type": "block_id",
-                "block_id": "3b8f909c-3e9d-8002-bcf0-f183865b5f5e"
-              },
-              "created_time": "2026-08-10T08:54:00.000Z",
-              "last_edited_time": "2026-08-10T08:54:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-              },
-              "has_children": false,
-              "in_trash": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "CLR이 이를 JIT 또는 AOT 방식으로 네이티브 코드와 연결한다.",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "CLR이 이를 JIT 또는 AOT 방식으로 네이티브 코드와 연결한다.",
-                    "href": null
-                  }
-                ],
-                "icon": null,
                 "color": "default"
               },
               "archived": false,
@@ -5411,13 +5841,13 @@
     },
     {
       "object": "block",
-      "id": "3b8f909c-3e9d-805e-af8a-cc5dbdedded0",
+      "id": "3b9f909c-3e9d-80df-8a50-f0e2ed83ee72",
       "parent": {
         "type": "page_id",
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
-      "created_time": "2026-08-10T08:54:00.000Z",
-      "last_edited_time": "2026-08-10T08:54:00.000Z",
+      "created_time": "2026-08-11T04:14:00.000Z",
+      "last_edited_time": "2026-08-11T04:14:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5435,13 +5865,13 @@
     },
     {
       "object": "block",
-      "id": "3b8f909c-3e9d-808d-8b47-d474dcf58066",
+      "id": "3b9f909c-3e9d-802c-97b3-c25c2fe48035",
       "parent": {
         "type": "page_id",
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
-      "created_time": "2026-08-10T08:54:00.000Z",
-      "last_edited_time": "2026-08-10T08:54:00.000Z",
+      "created_time": "2026-08-11T04:14:00.000Z",
+      "last_edited_time": "2026-08-11T04:14:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5458,13 +5888,13 @@
       "blocks": [
         {
           "object": "block",
-          "id": "3b8f909c-3e9d-800f-af27-ee83f834c7c8",
+          "id": "3b9f909c-3e9d-805d-9c0e-cc52104264c9",
           "parent": {
             "type": "block_id",
-            "block_id": "3b8f909c-3e9d-808d-8b47-d474dcf58066"
+            "block_id": "3b9f909c-3e9d-802c-97b3-c25c2fe48035"
           },
-          "created_time": "2026-08-10T08:54:00.000Z",
-          "last_edited_time": "2026-08-10T09:10:00.000Z",
+          "created_time": "2026-08-11T04:14:00.000Z",
+          "last_edited_time": "2026-08-11T04:14:00.000Z",
           "created_by": {
             "object": "user",
             "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5483,13 +5913,13 @@
           "blocks": [
             {
               "object": "block",
-              "id": "3b8f909c-3e9d-80ba-99de-e2cbfae0151c",
+              "id": "3b9f909c-3e9d-80da-9ae0-dbfce658e06a",
               "parent": {
                 "type": "block_id",
-                "block_id": "3b8f909c-3e9d-800f-af27-ee83f834c7c8"
+                "block_id": "3b9f909c-3e9d-805d-9c0e-cc52104264c9"
               },
-              "created_time": "2026-08-10T08:54:00.000Z",
-              "last_edited_time": "2026-08-10T08:54:00.000Z",
+              "created_time": "2026-08-11T04:14:00.000Z",
+              "last_edited_time": "2026-08-11T04:14:00.000Z",
               "created_by": {
                 "object": "user",
                 "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5531,13 +5961,13 @@
         },
         {
           "object": "block",
-          "id": "3b8f909c-3e9d-8041-b81d-cc7f51cc2702",
+          "id": "3b9f909c-3e9d-8077-a458-f687b6fa59ab",
           "parent": {
             "type": "block_id",
-            "block_id": "3b8f909c-3e9d-808d-8b47-d474dcf58066"
+            "block_id": "3b9f909c-3e9d-802c-97b3-c25c2fe48035"
           },
-          "created_time": "2026-08-10T08:54:00.000Z",
-          "last_edited_time": "2026-08-11T00:33:00.000Z",
+          "created_time": "2026-08-11T04:14:00.000Z",
+          "last_edited_time": "2026-08-11T04:16:00.000Z",
           "created_by": {
             "object": "user",
             "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5556,13 +5986,13 @@
           "blocks": [
             {
               "object": "block",
-              "id": "3b8f909c-3e9d-8094-8658-d94d1a64579a",
+              "id": "3b9f909c-3e9d-8000-bcb8-cd6d23251973",
               "parent": {
                 "type": "block_id",
-                "block_id": "3b8f909c-3e9d-8041-b81d-cc7f51cc2702"
+                "block_id": "3b9f909c-3e9d-8077-a458-f687b6fa59ab"
               },
-              "created_time": "2026-08-10T08:54:00.000Z",
-              "last_edited_time": "2026-08-10T08:54:00.000Z",
+              "created_time": "2026-08-11T04:14:00.000Z",
+              "last_edited_time": "2026-08-11T04:16:00.000Z",
               "created_by": {
                 "object": "user",
                 "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5579,7 +6009,7 @@
                   {
                     "type": "text",
                     "text": {
-                      "content": "C#은 Java와 관리형 실행 모델을 공유한다. ",
+                      "content": "메타데이터는 타입과 멤버, 참조와 Attribute를 설명하여 어셈블리가 스스로를 설명하게 한다.",
                       "link": null
                     },
                     "annotations": {
@@ -5590,57 +6020,11 @@
                       "code": false,
                       "color": "default"
                     },
-                    "plain_text": "C#은 Java와 관리형 실행 모델을 공유한다. ",
+                    "plain_text": "메타데이터는 타입과 멤버, 참조와 Attribute를 설명하여 어셈블리가 스스로를 설명하게 한다.",
                     "href": null
                   }
                 ],
                 "is_toggleable": false,
-                "color": "default"
-              },
-              "archived": false,
-              "blocks": []
-            },
-            {
-              "object": "block",
-              "id": "3b8f909c-3e9d-8096-b6a3-e71839e44c4a",
-              "parent": {
-                "type": "block_id",
-                "block_id": "3b8f909c-3e9d-8041-b81d-cc7f51cc2702"
-              },
-              "created_time": "2026-08-10T08:54:00.000Z",
-              "last_edited_time": "2026-08-10T08:54:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-              },
-              "has_children": false,
-              "in_trash": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "C++과는 저수준 제어와 자원 관리 철학에서 큰 차이가 난다.",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "C++과는 저수준 제어와 자원 관리 철학에서 큰 차이가 난다.",
-                    "href": null
-                  }
-                ],
-                "icon": null,
                 "color": "default"
               },
               "archived": false,
@@ -5652,13 +6036,13 @@
     },
     {
       "object": "block",
-      "id": "3b8f909c-3e9d-8049-ba0d-c1ca476279c8",
+      "id": "3b9f909c-3e9d-8070-a83f-f7bfc13b5b63",
       "parent": {
         "type": "page_id",
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
-      "created_time": "2026-08-10T08:54:00.000Z",
-      "last_edited_time": "2026-08-10T08:54:00.000Z",
+      "created_time": "2026-08-11T04:14:00.000Z",
+      "last_edited_time": "2026-08-11T04:14:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5676,13 +6060,13 @@
     },
     {
       "object": "block",
-      "id": "3b8f909c-3e9d-8029-ab02-cb44503db68c",
+      "id": "3b9f909c-3e9d-80cd-b3c3-f4eacba24746",
       "parent": {
         "type": "page_id",
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
-      "created_time": "2026-08-10T08:54:00.000Z",
-      "last_edited_time": "2026-08-10T08:54:00.000Z",
+      "created_time": "2026-08-11T04:14:00.000Z",
+      "last_edited_time": "2026-08-11T04:14:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5699,13 +6083,13 @@
       "blocks": [
         {
           "object": "block",
-          "id": "3b8f909c-3e9d-803e-b1c0-c1c36c99b152",
+          "id": "3b9f909c-3e9d-80a3-8370-c9de6f01a740",
           "parent": {
             "type": "block_id",
-            "block_id": "3b8f909c-3e9d-8029-ab02-cb44503db68c"
+            "block_id": "3b9f909c-3e9d-80cd-b3c3-f4eacba24746"
           },
-          "created_time": "2026-08-10T08:54:00.000Z",
-          "last_edited_time": "2026-08-10T08:54:00.000Z",
+          "created_time": "2026-08-11T04:14:00.000Z",
+          "last_edited_time": "2026-08-11T04:14:00.000Z",
           "created_by": {
             "object": "user",
             "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5724,13 +6108,13 @@
           "blocks": [
             {
               "object": "block",
-              "id": "3b8f909c-3e9d-80ca-ae7e-c3e97d1dbdd1",
+              "id": "3b9f909c-3e9d-80d7-b644-d4cc9dba5142",
               "parent": {
                 "type": "block_id",
-                "block_id": "3b8f909c-3e9d-803e-b1c0-c1c36c99b152"
+                "block_id": "3b9f909c-3e9d-80a3-8370-c9de6f01a740"
               },
-              "created_time": "2026-08-10T08:54:00.000Z",
-              "last_edited_time": "2026-08-10T08:54:00.000Z",
+              "created_time": "2026-08-11T04:14:00.000Z",
+              "last_edited_time": "2026-08-11T04:14:00.000Z",
               "created_by": {
                 "object": "user",
                 "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5772,13 +6156,13 @@
         },
         {
           "object": "block",
-          "id": "3b8f909c-3e9d-805e-8c42-c0954eb216b4",
+          "id": "3b9f909c-3e9d-8061-8de6-cc4b126d6301",
           "parent": {
             "type": "block_id",
-            "block_id": "3b8f909c-3e9d-8029-ab02-cb44503db68c"
+            "block_id": "3b9f909c-3e9d-80cd-b3c3-f4eacba24746"
           },
-          "created_time": "2026-08-10T08:54:00.000Z",
-          "last_edited_time": "2026-08-10T08:54:00.000Z",
+          "created_time": "2026-08-11T04:14:00.000Z",
+          "last_edited_time": "2026-08-11T04:16:00.000Z",
           "created_by": {
             "object": "user",
             "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5797,13 +6181,13 @@
           "blocks": [
             {
               "object": "block",
-              "id": "3b8f909c-3e9d-80f6-9812-f9acaf6d69c8",
+              "id": "3b9f909c-3e9d-8025-b18b-d56fa16094aa",
               "parent": {
                 "type": "block_id",
-                "block_id": "3b8f909c-3e9d-805e-8c42-c0954eb216b4"
+                "block_id": "3b9f909c-3e9d-8061-8de6-cc4b126d6301"
               },
-              "created_time": "2026-08-10T08:54:00.000Z",
-              "last_edited_time": "2026-08-10T08:54:00.000Z",
+              "created_time": "2026-08-11T04:14:00.000Z",
+              "last_edited_time": "2026-08-11T04:16:00.000Z",
               "created_by": {
                 "object": "user",
                 "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5820,7 +6204,7 @@
                   {
                     "type": "text",
                     "text": {
-                      "content": "어느 언어가 절대적으로 우월한 것은 아니다. ",
+                      "content": "CLR은 메타데이터를 이용해 어셈블리를 로드하고 관리형 코드에 실행 서비스를 제공한다.",
                       "link": null
                     },
                     "annotations": {
@@ -5831,57 +6215,11 @@
                       "code": false,
                       "color": "default"
                     },
-                    "plain_text": "어느 언어가 절대적으로 우월한 것은 아니다. ",
+                    "plain_text": "CLR은 메타데이터를 이용해 어셈블리를 로드하고 관리형 코드에 실행 서비스를 제공한다.",
                     "href": null
                   }
                 ],
                 "is_toggleable": false,
-                "color": "default"
-              },
-              "archived": false,
-              "blocks": []
-            },
-            {
-              "object": "block",
-              "id": "3b8f909c-3e9d-8001-ba60-c7d24e50a915",
-              "parent": {
-                "type": "block_id",
-                "block_id": "3b8f909c-3e9d-805e-8c42-c0954eb216b4"
-              },
-              "created_time": "2026-08-10T08:54:00.000Z",
-              "last_edited_time": "2026-08-10T08:54:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-              },
-              "has_children": false,
-              "in_trash": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "런타임의 편의, 제어 수준, 생태계, 배포 환경에 따라 선택이 달라진다.",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "런타임의 편의, 제어 수준, 생태계, 배포 환경에 따라 선택이 달라진다.",
-                    "href": null
-                  }
-                ],
-                "icon": null,
                 "color": "default"
               },
               "archived": false,
@@ -5893,13 +6231,13 @@
     },
     {
       "object": "block",
-      "id": "3b8f909c-3e9d-8023-a609-efb02cf6cb8c",
+      "id": "3b9f909c-3e9d-80c7-9510-f82026e8e88f",
       "parent": {
         "type": "page_id",
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
-      "created_time": "2026-08-10T08:54:00.000Z",
-      "last_edited_time": "2026-08-10T08:54:00.000Z",
+      "created_time": "2026-08-11T04:14:00.000Z",
+      "last_edited_time": "2026-08-11T04:14:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5917,13 +6255,208 @@
     },
     {
       "object": "block",
-      "id": "3b8f909c-3e9d-804d-946f-c058bd325687",
+      "id": "3b9f909c-3e9d-8073-9e22-ffa4165dc3cd",
       "parent": {
         "type": "page_id",
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
-      "created_time": "2026-08-10T08:54:00.000Z",
-      "last_edited_time": "2026-08-10T08:54:00.000Z",
+      "created_time": "2026-08-11T04:17:00.000Z",
+      "last_edited_time": "2026-08-11T04:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "archived": false,
+      "blocks": [
+        {
+          "object": "block",
+          "id": "3b9f909c-3e9d-80a7-8440-e659c890c3dc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3b9f909c-3e9d-8073-9e22-ffa4165dc3cd"
+          },
+          "created_time": "2026-08-11T04:17:00.000Z",
+          "last_edited_time": "2026-08-11T04:17:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.0625
+          },
+          "archived": false,
+          "blocks": [
+            {
+              "object": "block",
+              "id": "3b9f909c-3e9d-802f-92a1-cc8e10f7358c",
+              "parent": {
+                "type": "block_id",
+                "block_id": "3b9f909c-3e9d-80a7-8440-e659c890c3dc"
+              },
+              "created_time": "2026-08-11T04:17:00.000Z",
+              "last_edited_time": "2026-08-11T04:17:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "heading_3",
+              "heading_3": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "04",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "04",
+                    "href": null
+                  }
+                ],
+                "is_toggleable": false,
+                "color": "purple"
+              },
+              "archived": false,
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "3b9f909c-3e9d-8022-9e2b-c09dfe9c349e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3b9f909c-3e9d-8073-9e22-ffa4165dc3cd"
+          },
+          "created_time": "2026-08-11T04:17:00.000Z",
+          "last_edited_time": "2026-08-11T04:17:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.9375
+          },
+          "archived": false,
+          "blocks": [
+            {
+              "object": "block",
+              "id": "3b9f909c-3e9d-8092-b4aa-e7f50d071e30",
+              "parent": {
+                "type": "block_id",
+                "block_id": "3b9f909c-3e9d-8022-9e2b-c09dfe9c349e"
+              },
+              "created_time": "2026-08-11T04:17:00.000Z",
+              "last_edited_time": "2026-08-11T04:17:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "heading_4",
+              "heading_4": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "JIT은 필요한 CIL 메서드를 네이티브 코드로 변환하고, CPU는 그 결과를 실행한다.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "JIT은 필요한 CIL 메서드를 네이티브 코드로 변환하고, CPU는 그 결과를 실행한다.",
+                    "href": null
+                  }
+                ],
+                "is_toggleable": false,
+                "color": "default"
+              },
+              "archived": false,
+              "blocks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-800e-92b6-e90b6ba74333",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:17:00.000Z",
+      "last_edited_time": "2026-08-11T04:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-8071-a00b-c953acf6f505",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:17:00.000Z",
+      "last_edited_time": "2026-08-11T04:17:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
