@@ -42,6 +42,15 @@ type CustomHeading2Props = {
   children?: ReactNode
 }
 
+type CustomHeading4Props = {
+  heading_4: {
+    color?: string
+    is_toggleable?: boolean
+    rich_text?: any[]
+  }
+  children?: ReactNode
+}
+
 type TableOfContentsItem = {
   id: string
   text: string
@@ -175,6 +184,49 @@ function CustomHeading2({ id, heading_2, children }: CustomHeading2Props) {
   )
 }
 
+function CustomHeading4({ heading_4, children }: CustomHeading4Props) {
+  const [isOpen, setIsOpen] = useState(false)
+  const color = heading_4?.color ?? 'default'
+  const richText = heading_4?.rich_text ?? []
+  const isToggleable = Boolean(heading_4?.is_toggleable)
+
+  return (
+    <div
+      className={`notion-block notion-toggle notion-h4 notion-${color} ${
+        isOpen ? 'notion-toggle-open' : ''
+      }`}
+    >
+      {isToggleable ? (
+        <>
+          <div className="notion-toggle-content">
+            <button
+              type="button"
+              onClick={() => setIsOpen((open) => !open)}
+              className="notion-toggle-button"
+              aria-expanded={isOpen}
+              aria-label={isOpen ? '제목 접기' : '제목 펼치기'}
+            >
+              <span
+                className={`notion-toggle-button-arrow ${
+                  isOpen ? 'notion-toggle-button-arrow-opened' : ''
+                }`}
+              />
+            </button>
+            <h4 className="notion-h-content notion-h4-content">
+              <NotionRichText items={richText} />
+            </h4>
+          </div>
+          {children}
+        </>
+      ) : (
+        <h4 className="notion-h-content notion-h4-content">
+          <NotionRichText items={richText} />
+        </h4>
+      )}
+    </div>
+  )
+}
+
 function collectTableOfContents(blocks: any[]): TableOfContentsItem[] {
   return blocks.flatMap((block) => {
     const current =
@@ -285,6 +337,7 @@ export default function NotionRenderer({ post }: { post: NotionPost }) {
         column_list: CustomColumnList,
         column: CustomColumn,
         heading_2: CustomHeading2,
+        heading_4: CustomHeading4,
       }}
     >
       <Notion.Cover src={post.image} />

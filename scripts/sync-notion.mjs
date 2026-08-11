@@ -254,6 +254,7 @@ const SUPPORTED_BLOCK_TYPES = new Set([
   'heading_1',
   'heading_2',
   'heading_3',
+  'heading_4',
   'paragraph',
   'bulleted_list_item',
   'toggle',
