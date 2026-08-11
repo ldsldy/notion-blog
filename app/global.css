@@ -282,6 +282,7 @@ table {
 }
 
 .notion .notion-responsive-table .notion-table {
+  display: table;
   width: 100%;
   min-width: var(--notion-table-min-width, 42rem);
   margin: 0;

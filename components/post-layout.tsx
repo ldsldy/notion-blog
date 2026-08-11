@@ -88,7 +88,7 @@ export default function PostLayout({
         </nav>
       </aside>
 
-      <div className="post-detail relative left-1/2 w-[min(calc(100vw-2rem),80rem)] -translate-x-1/2">
+      <div className="post-detail relative w-[min(calc(100vw-2rem),80rem)] self-center">
         {children}
       </div>
     </>
