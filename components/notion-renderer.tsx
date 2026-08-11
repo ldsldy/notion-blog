@@ -51,6 +51,21 @@ type CustomHeading4Props = {
   children?: ReactNode
 }
 
+type CustomTableProps = {
+  table: {
+    table_width?: number
+    has_column_header?: boolean
+    has_row_header?: boolean
+  }
+  children?: ReactNode
+}
+
+type CustomTableRowProps = {
+  table_row: {
+    cells?: any[][]
+  }
+}
+
 type TableOfContentsItem = {
   id: string
   text: string
@@ -297,6 +312,42 @@ function CustomColumn({ column, children }: CustomColumnProps) {
   )
 }
 
+function CustomTable({ table, children }: CustomTableProps) {
+  const hasColumnHeader = Boolean(table?.has_column_header)
+  const hasRowHeader = Boolean(table?.has_row_header)
+
+  return (
+    <div
+      className="notion-block notion-responsive-table"
+      role="region"
+      aria-label="표"
+      tabIndex={0}
+    >
+      <table
+        className={`notion-table notion-table-content ${
+          hasColumnHeader ? 'notion-has-column-header' : ''
+        } ${hasRowHeader ? 'notion-has-row-header' : ''}`.trim()}
+      >
+        <tbody>{children}</tbody>
+      </table>
+    </div>
+  )
+}
+
+function CustomTableRow({ table_row }: CustomTableRowProps) {
+  const cells = table_row?.cells ?? []
+
+  return (
+    <tr className="notion-table-row">
+      {cells.map((cell, index) => (
+        <td key={index}>
+          <NotionRichText items={cell ?? []} />
+        </td>
+      ))}
+    </tr>
+  )
+}
+
 function FallbackBlock({ type, children, ...block }: FallbackBlockProps) {
   const value = block[type] ?? {}
   const richText = value.rich_text ?? value.caption ?? []
@@ -336,6 +387,8 @@ export default function NotionRenderer({ post }: { post: NotionPost }) {
         callout: CustomCallout,
         column_list: CustomColumnList,
         column: CustomColumn,
+        table: CustomTable,
+        table_row: CustomTableRow,
         heading_2: CustomHeading2,
         heading_4: CustomHeading4,
       }}
