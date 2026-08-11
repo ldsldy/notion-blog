@@ -244,6 +244,18 @@ table {
   margin-top: 0.35rem;
 }
 
+.notion .notion-column-list.notion-custom-column-list {
+  display: flex;
+  grid-template-columns: none;
+  gap: 2.875rem;
+  align-items: stretch;
+}
+
+.notion .notion-column.notion-custom-column {
+  width: auto;
+  min-width: 0;
+}
+
 @media (max-width: 640px) {
   .post-detail .notion {
     --notion-max-width: 100%;
@@ -251,5 +263,15 @@ table {
 
   .post-detail .notion-cover {
     border-radius: 0.5rem;
+  }
+
+  .notion .notion-column-list.notion-custom-column-list {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .notion .notion-column.notion-custom-column {
+    flex-basis: auto !important;
+    width: 100%;
   }
 }

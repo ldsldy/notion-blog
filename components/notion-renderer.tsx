@@ -1,7 +1,7 @@
 'use client'
 
 import { Notion } from '@notionpresso/react'
-import type { ReactNode } from 'react'
+import type { CSSProperties, ReactNode } from 'react'
 
 type NotionPost = {
   title: string
@@ -21,6 +21,13 @@ type CustomCalloutProps = {
     icon?: any | null
     color?: string
     rich_text?: any[]
+  }
+  children?: ReactNode
+}
+
+type CustomColumnProps = {
+  column?: {
+    width_ratio?: number
   }
   children?: ReactNode
 }
@@ -105,6 +112,32 @@ function CustomCallout({ callout, children }: CustomCalloutProps) {
   )
 }
 
+function CustomColumnList({ children }: { children?: ReactNode }) {
+  return (
+    <div className="notion-block notion-column-list notion-custom-column-list">
+      {children}
+    </div>
+  )
+}
+
+function CustomColumn({ column, children }: CustomColumnProps) {
+  const widthRatio = Number(column?.width_ratio)
+  const ratio = Number.isFinite(widthRatio) && widthRatio > 0 ? widthRatio : 1
+  const style = {
+    '--notion-column-width-ratio': ratio,
+    flexBasis: 0,
+    flexGrow: ratio,
+    flexShrink: 1,
+    minWidth: 0,
+  } as CSSProperties
+
+  return (
+    <div className="notion-column notion-custom-column" style={style}>
+      {children}
+    </div>
+  )
+}
+
 function FallbackBlock({ type, children, ...block }: FallbackBlockProps) {
   const value = block[type] ?? {}
   const richText = value.rich_text ?? value.caption ?? []
@@ -136,7 +169,14 @@ function FallbackBlock({ type, children, ...block }: FallbackBlockProps) {
 
 export default function NotionRenderer({ post }: { post: NotionPost }) {
   return (
-    <Notion custom={{ fallback: FallbackBlock, callout: CustomCallout }}>
+    <Notion
+      custom={{
+        fallback: FallbackBlock,
+        callout: CustomCallout,
+        column_list: CustomColumnList,
+        column: CustomColumn,
+      }}
+    >
       <Notion.Cover src={post.image} />
       <Notion.Body>
         <Notion.Title title={post.title} />
