@@ -2,7 +2,7 @@
   "object": "page",
   "id": "3b8f909c-3e9d-8004-865b-e5cee7703f08",
   "created_time": "2026-08-10T04:54:00.000Z",
-  "last_edited_time": "2026-08-11T00:31:00.000Z",
+  "last_edited_time": "2026-08-11T01:04:00.000Z",
   "created_by": {
     "object": "user",
     "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -48,8 +48,8 @@
           "name": "스크린샷 2026-08-10 110719.png",
           "type": "file",
           "file": {
-            "url": "https://prod-files-secure-apne2.s3.ap-northeast-2.amazonaws.com/abef909c-3e9d-81f7-8928-000356ef3a91/461098ef-c500-4c44-88ee-171cbefe7de0/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-08-10_110719.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466V37ZHCEH%2F20260811%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Date=20260811T004739Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLW5vcnRoZWFzdC0yIkgwRgIhAJWVPp%2F%2FAlaixryD0%2Fcy3fNUMT4kfCj6juKL4SzAxfcVAiEAnhe7nlk4RRgt3vYghFooJgvVcT4wo%2FL7q66jdwkiNn8qjwQIqv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDOxO8ZXaGXV8fDqqzyrjA%2BJCcQnR0SBomdFhpshWmvEqtLcm3vAkpvgZgKFNhQMXD8pJsaZ5oIt6mfwX4rqEKsx3gXyvrL3o7326AcID9aaTUAYez1DqkyHWSJ9sQUN3mzXXasxJvwwRy51qIXFllIVvfHcqtu1NqK1NSDT3p5XB7bsAako%2BikmbOPNR1UZj3QIOeA9GK%2FITxeupC7o%2BxVj163VSITj5BBNgxQcNvO5iCM%2FlCpVs0WxWXwUZUtNwa%2F81X0tk9%2F%2BlmfU4TapLPDPL1juzU3v1zFQGHOB%2BddgCrY%2FAmURd0%2FqZF9LXh3cKY%2B9ngoveXYNO5dX1RiSfy7S2YlNV4i0ZkiPK4HFa9XjbzljQzBbB1Vl3gEW1Mfk47OhXvwzMhJ2XSr3LaZeZbPxKhWP7H1MvBaPhQiwPSwWQGj30runOhvCJ9lxSxiNXubUmB%2FUoRAhO%2BQ5g81OlsRygkJ9zIePKQSjneTW0uwt9I1%2FSKBFXQtnX4vJBexVNnpyhTIuUxILFfaS1IH6yFK53lkA0qpSLu98isT9Pa2sSHYay9RV0Mg2p9I1qSzyDP6AWyWX3KpPHtPAjh7ht0l5CM6hoxaXIgmBBj3fGrSzWWCot4edz8%2FnYkKeVPfa9qo4VvMB4gw0OmME1RII9x4XSGzDT2%2BnTBjqkAc4jrtOSmRGkWOAK2wIfawnZfU5tHj1J%2BKGBg5MJJ2STKg%2FkDjl420BKsFHUUxcPzO4HbQrO7cIr6RyfAmQQfN00YHwiZKhkA3TNAPwwZB0L21rt%2FVjHSjtBjj8%2B%2FaazTyNfcuCIiMY2uRFNAVeTzdWZNEdKd3F71CIbB2HHp15ykk1KhhXceevLxjMIR9dg40cHoLDJbYGD7j3vzENeIIj2oxI8&X-Amz-Signature=a2bef6e906491248f3c505b3e20746f2f29ce3e190e7630a00d451cc775ade47&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-            "expiry_time": "2026-08-11T01:47:39.227Z"
+            "url": "https://prod-files-secure-apne2.s3.ap-northeast-2.amazonaws.com/abef909c-3e9d-81f7-8928-000356ef3a91/461098ef-c500-4c44-88ee-171cbefe7de0/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-08-10_110719.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466ZPY6553C%2F20260811%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Date=20260811T010952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLW5vcnRoZWFzdC0yIkYwRAIgOWHzzYJP01%2Bjlet3Nz6yPZrN%2B7orN4m0IpOnxUGAhksCIBskC9RhkECB27hJc9ZcfE3hXi%2BWjHNF1AN4Yv3oOoViKo8ECKr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1Igy%2F%2FM7NXH2A0fpnv6Mq4wNzYYfR6Gn%2FKdhdrelFUZQTRblDFX9bWrYAZATwMGP21IhLwU5QN5AfDg1CJ4JNegzux%2FWNHSnDmwh88iAuXgUHPbmd%2BZochait17koYxXWYOUHgFA9jBFseC%2B5eyoviYxy1TaqI2s6zQHLYxuB4QHeKEWOKgPRyCmYA0aJcESi33gx0un7%2FIoeO4Bbjkqm2Cp1y0VGZdllB2qVP6BkcsX%2F5Pa7E7jh2Wl3kTl%2FmjvbmSAB3dwz9aFnlvkrmSvW9UVPWsj%2By7lbJlRjiy%2Bc07fjC5o4Z1zGpXoEzV4qtkqnAZLUeAaM%2F%2FSebRy6TB4km9l7sBUvm7KD3HGpqv4JXaHql5n4F18AsEZSPltzf41xhMl9MIUz7vqNVzHabxzqPz9lwnd%2Fo7eFhuXncaSeJUARymloqa1VXItulTriYluMProwvJHqGhjZR3T6Uh%2BS6zzrFAmGoAfwmdnBIpG1OGruwFfcd14DmZMVmddacGQuKMsd1hVI9Wf%2BpdR3gnayoPkpjRoY%2FhUy%2B8c%2BouNSZSEItDzwEmXcVxInPU%2BYhvfFUAQSMCJr1%2Bux%2F%2FfausWP2R9cXhYTwQAwQbn%2FNB2n%2FwOn2h1QXCT7OQHxcOyma5ZcumteEG8%2FuhtipLuUsTaimZ1N3KUw7dvp0wY6pgFMdbbQVIgOPAry6YWcCPpqWtLtsa%2Fs26yyt7dbqC8tnWlLHWMKE%2FUaVFp3Z%2FTYyStO6bjmnr8Le4HtROhjSJBKT9uBWOUQ8hBoZ1Pjn983KwNyhNFX9UBWOf1AKhq9v4OG9VKGYrJ9PTuPalfqjjWCa%2FatMHF85%2FlpeeSuoYqMpiomqkaOf%2F%2BqJQlert3Fm39BvS8Y6CjFksGycVUTHssjcdAdz7BG&X-Amz-Signature=dd9235fc3d8a4587121daad4aa55eccdc53348a70a31c3219f8c7a9c37c29e2b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+            "expiry_time": "2026-08-11T02:09:52.525Z"
           }
         }
       ]
@@ -341,7 +341,7 @@
         "page_id": "3b8f909c-3e9d-8004-865b-e5cee7703f08"
       },
       "created_time": "2026-08-10T07:29:00.000Z",
-      "last_edited_time": "2026-08-10T07:29:00.000Z",
+      "last_edited_time": "2026-08-11T01:04:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -358,7 +358,7 @@
           {
             "type": "text",
             "text": {
-              "content": "왜 C#과 .NET이 탄생 했을까?",
+              "content": "01. 왜 C#과 .NET이 탄생 했을까?",
               "link": null
             },
             "annotations": {
@@ -369,12 +369,12 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "왜 C#과 .NET이 탄생 했을까?",
+            "plain_text": "01. 왜 C#과 .NET이 탄생 했을까?",
             "href": null
           }
         ],
         "is_toggleable": false,
-        "color": "default"
+        "color": "purple"
       },
       "archived": false,
       "blocks": []
@@ -525,7 +525,7 @@
         "page_id": "3b8f909c-3e9d-8004-865b-e5cee7703f08"
       },
       "created_time": "2026-08-10T07:41:00.000Z",
-      "last_edited_time": "2026-08-10T07:41:00.000Z",
+      "last_edited_time": "2026-08-11T01:04:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -542,7 +542,7 @@
           {
             "type": "text",
             "text": {
-              "content": "C# 코드는 어떻게 CPU까지 갈까?",
+              "content": "02. C# 코드는 어떻게 CPU까지 갈까?",
               "link": null
             },
             "annotations": {
@@ -553,12 +553,12 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "C# 코드는 어떻게 CPU까지 갈까?",
+            "plain_text": "02. C# 코드는 어떻게 CPU까지 갈까?",
             "href": null
           }
         ],
         "is_toggleable": false,
-        "color": "default"
+        "color": "purple"
       },
       "archived": false,
       "blocks": []
@@ -1244,7 +1244,7 @@
         "page_id": "3b8f909c-3e9d-8004-865b-e5cee7703f08"
       },
       "created_time": "2026-08-10T08:03:00.000Z",
-      "last_edited_time": "2026-08-10T08:03:00.000Z",
+      "last_edited_time": "2026-08-11T01:04:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -1261,7 +1261,7 @@
           {
             "type": "text",
             "text": {
-              "content": "C#과 JAVA, C++과의 비교",
+              "content": "03. C#과 JAVA, C++과의 비교",
               "link": null
             },
             "annotations": {
@@ -1272,12 +1272,12 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "C#과 JAVA, C++과의 비교",
+            "plain_text": "03. C#과 JAVA, C++과의 비교",
             "href": null
           }
         ],
         "is_toggleable": false,
-        "color": "default"
+        "color": "purple"
       },
       "archived": false,
       "blocks": []
@@ -1805,7 +1805,7 @@
         "page_id": "3b8f909c-3e9d-8004-865b-e5cee7703f08"
       },
       "created_time": "2026-08-10T08:04:00.000Z",
-      "last_edited_time": "2026-08-10T08:10:00.000Z",
+      "last_edited_time": "2026-08-11T01:04:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -1822,7 +1822,7 @@
           {
             "type": "text",
             "text": {
-              "content": "마무리",
+              "content": "04. 마무리",
               "link": null
             },
             "annotations": {
@@ -1833,12 +1833,12 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "마무리",
+            "plain_text": "04. 마무리",
             "href": null
           }
         ],
         "is_toggleable": false,
-        "color": "default"
+        "color": "purple"
       },
       "archived": false,
       "blocks": []
@@ -3001,7 +3001,7 @@
         "page_id": "3b8f909c-3e9d-8004-865b-e5cee7703f08"
       },
       "created_time": "2026-08-10T08:25:00.000Z",
-      "last_edited_time": "2026-08-10T08:31:00.000Z",
+      "last_edited_time": "2026-08-11T00:59:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
