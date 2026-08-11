@@ -263,11 +263,8 @@ table {
 }
 
 .notion .notion-responsive-table {
-  width: min(
-    75rem,
-    calc(50vw + (var(--notion-max-width) / 2) - 1.5rem)
-  );
-  max-width: calc(100vw - 1.5rem);
+  width: 100%;
+  max-width: 100%;
   margin: 1rem 0;
   overflow-x: auto;
   overscroll-behavior-inline: contain;
@@ -286,14 +283,14 @@ table {
   width: 100%;
   min-width: var(--notion-table-min-width, 42rem);
   margin: 0;
-  table-layout: auto;
+  table-layout: fixed;
   border-collapse: collapse;
-  font-size: 0.9rem;
+  font-size: 0.82rem;
 }
 
 .notion .notion-responsive-table .notion-table-row td {
   width: auto;
-  min-width: 7.5rem;
+  min-width: 0;
   padding: 0.7rem 0.8rem;
   border: 0;
   border-right: 1px solid var(--fg-color-5);
@@ -306,7 +303,7 @@ table {
 }
 
 .notion .notion-responsive-table .notion-table-row td:first-child {
-  min-width: 9rem;
+  min-width: 0;
 }
 
 .notion .notion-responsive-table .notion-table-row td:last-child {

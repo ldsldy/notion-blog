@@ -317,8 +317,11 @@ function CustomTable({ table, children }: CustomTableProps) {
   const hasRowHeader = Boolean(table?.has_row_header)
   const columnCount = Math.max(Number(table?.table_width) || 1, 1)
   const style = {
-    '--notion-table-min-width': `${Math.max(columnCount * 17, 42)}rem`,
+    '--notion-table-min-width': `${Math.max(columnCount * 12, 36)}rem`,
   } as CSSProperties
+  const firstColumnWidth = columnCount > 1 ? 15 : 100
+  const remainingColumnWidth =
+    columnCount > 1 ? (100 - firstColumnWidth) / (columnCount - 1) : 0
 
   return (
     <div
@@ -333,6 +336,16 @@ function CustomTable({ table, children }: CustomTableProps) {
           hasColumnHeader ? 'notion-has-column-header' : ''
         } ${hasRowHeader ? 'notion-has-row-header' : ''}`.trim()}
       >
+        <colgroup>
+          {Array.from({ length: columnCount }, (_, index) => (
+            <col
+              key={index}
+              style={{
+                width: `${index === 0 ? firstColumnWidth : remainingColumnWidth}%`,
+              }}
+            />
+          ))}
+        </colgroup>
         <tbody>{children}</tbody>
       </table>
     </div>
