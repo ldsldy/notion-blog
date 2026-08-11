@@ -1,7 +1,7 @@
 'use client'
 
 import { Notion } from '@notionpresso/react'
-import type { CSSProperties, ReactNode } from 'react'
+import { useState, type CSSProperties, type ReactNode } from 'react'
 
 type NotionPost = {
   title: string
@@ -32,7 +32,22 @@ type CustomColumnProps = {
   children?: ReactNode
 }
 
-function CalloutRichText({ items }: { items: any[] }) {
+type CustomHeading2Props = {
+  id?: string
+  heading_2: {
+    color?: string
+    is_toggleable?: boolean
+    rich_text?: any[]
+  }
+  children?: ReactNode
+}
+
+type TableOfContentsItem = {
+  id: string
+  text: string
+}
+
+function NotionRichText({ items }: { items: any[] }) {
   return items.map((item, index) => {
     const annotations = item.annotations ?? {}
     const text =
@@ -101,7 +116,7 @@ function CustomCallout({ callout, children }: CustomCalloutProps) {
       <div className="notion-custom-callout-body">
         {richText.length > 0 ? (
           <div className="notion-custom-callout-text">
-            <CalloutRichText items={richText} />
+            <NotionRichText items={richText} />
           </div>
         ) : null}
         {children ? (
@@ -109,6 +124,98 @@ function CustomCallout({ callout, children }: CustomCalloutProps) {
         ) : null}
       </div>
     </div>
+  )
+}
+
+function headingAnchorId(id?: string) {
+  return `section-${id ?? 'untitled'}`
+}
+
+function CustomHeading2({ id, heading_2, children }: CustomHeading2Props) {
+  const [isOpen, setIsOpen] = useState(false)
+  const color = heading_2?.color ?? 'default'
+  const richText = heading_2?.rich_text ?? []
+  const isToggleable = Boolean(heading_2?.is_toggleable)
+
+  return (
+    <div
+      id={headingAnchorId(id)}
+      className={`notion-block notion-toggle notion-h2 notion-${color} notion-toc-heading ${
+        isOpen ? 'notion-toggle-open' : ''
+      }`}
+    >
+      {isToggleable ? (
+        <>
+          <div className="notion-toggle-content">
+            <button
+              type="button"
+              onClick={() => setIsOpen((open) => !open)}
+              className="notion-toggle-button"
+              aria-expanded={isOpen}
+              aria-label={isOpen ? '소제목 접기' : '소제목 펼치기'}
+            >
+              <span
+                className={`notion-toggle-button-arrow ${
+                  isOpen ? 'notion-toggle-button-arrow-opened' : ''
+                }`}
+              />
+            </button>
+            <h2 className="notion-h-content notion-h2-content">
+              <NotionRichText items={richText} />
+            </h2>
+          </div>
+          {children}
+        </>
+      ) : (
+        <h2 className="notion-h-content notion-h2-content">
+          <NotionRichText items={richText} />
+        </h2>
+      )}
+    </div>
+  )
+}
+
+function collectTableOfContents(blocks: any[]): TableOfContentsItem[] {
+  return blocks.flatMap((block) => {
+    const current =
+      block.type === 'heading_2'
+        ? [
+            {
+              id: headingAnchorId(block.id),
+              text: (block.heading_2?.rich_text ?? [])
+                .map(
+                  (item: any) =>
+                    item?.plain_text ?? item?.text?.content ?? '',
+                )
+                .join('')
+                .trim(),
+            },
+          ].filter((item) => item.text)
+        : []
+
+    return [
+      ...current,
+      ...collectTableOfContents(Array.isArray(block.blocks) ? block.blocks : []),
+    ]
+  })
+}
+
+function PostTableOfContents({ items }: { items: TableOfContentsItem[] }) {
+  if (items.length === 0) return null
+
+  return (
+    <aside className="notion-post-toc" aria-label="포스팅 목차">
+      <nav>
+        <p className="notion-post-toc-title">목차</p>
+        <ol>
+          {items.map((item) => (
+            <li key={item.id}>
+              <a href={`#${item.id}`}>{item.text}</a>
+            </li>
+          ))}
+        </ol>
+      </nav>
+    </aside>
   )
 }
 
@@ -168,6 +275,8 @@ function FallbackBlock({ type, children, ...block }: FallbackBlockProps) {
 }
 
 export default function NotionRenderer({ post }: { post: NotionPost }) {
+  const tableOfContents = collectTableOfContents(post.content.blocks)
+
   return (
     <Notion
       custom={{
@@ -175,23 +284,27 @@ export default function NotionRenderer({ post }: { post: NotionPost }) {
         callout: CustomCallout,
         column_list: CustomColumnList,
         column: CustomColumn,
+        heading_2: CustomHeading2,
       }}
     >
       <Notion.Cover src={post.image} />
-      <Notion.Body>
-        <Notion.Title title={post.title} />
-        <div className="notion-post-tags" aria-label="포스팅 태그">
-          <span className="notion-post-tags-label">Tags</span>
-          <div className="notion-post-tags-list">
-            {(post.tags?.length ? post.tags : ['미분류']).map((tag) => (
-              <span key={tag} className="notion-post-tag">
-                #{tag}
-              </span>
-            ))}
+      <div className="notion-content-shell">
+        <PostTableOfContents items={tableOfContents} />
+        <Notion.Body>
+          <Notion.Title title={post.title} />
+          <div className="notion-post-tags" aria-label="포스팅 태그">
+            <span className="notion-post-tags-label">Tags</span>
+            <div className="notion-post-tags-list">
+              {(post.tags?.length ? post.tags : ['미분류']).map((tag) => (
+                <span key={tag} className="notion-post-tag">
+                  #{tag}
+                </span>
+              ))}
+            </div>
           </div>
-        </div>
-        <Notion.Blocks blocks={post.content.blocks} />
-      </Notion.Body>
+          <Notion.Blocks blocks={post.content.blocks} />
+        </Notion.Body>
+      </div>
     </Notion>
   )
 }
