@@ -2,7 +2,7 @@
   "object": "page",
   "id": "3b8f909c-3e9d-807e-8025-e432677a1491",
   "created_time": "2026-08-10T08:37:00.000Z",
-  "last_edited_time": "2026-08-11T04:28:00.000Z",
+  "last_edited_time": "2026-08-11T04:35:00.000Z",
   "created_by": {
     "object": "user",
     "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -48,8 +48,8 @@
           "name": "스크린샷 2026-08-10 110719.png",
           "type": "file",
           "file": {
-            "url": "https://prod-files-secure-apne2.s3.ap-northeast-2.amazonaws.com/abef909c-3e9d-81f7-8928-000356ef3a91/6a3f2ad2-5e18-4aef-8ee2-58fb812800fc/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-08-10_110719.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VNDFIRUU%2F20260811%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Date=20260811T042901Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLW5vcnRoZWFzdC0yIkgwRgIhAIMrFPXkbJbURlJRPVKU47TBKmDmPZt76fW%2BePTaP7BpAiEAnyVCutfPzHiUcDoBVvhWNApZci%2BFeGY4OxATtMm4dEkqjwQIrP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDEHqNiIj41PP%2BrAEGyrjA4JUlsKXxt%2FqDasPNas6gvXcuzgqFxMFObKLGlDPfWmIkWWSL1MCHHE9PoLoeRitA%2BojCNwcLTcJ2vsFoQ%2FaeZYUze7UMIwCnsJLMfknXxSeuq6JUEoMXZfbOMUuj%2BNbrtyhak42W1DTbkSQzUpIKIOz5p%2FzZzK%2B4j56fzUwHC0aHiQu39GqLp6NNmOLZ2im0bEx6GDRwIhGbVoZXrSz9oEOg1IyWxmD2nS1Sy%2BU%2BB9aLrFXNZHW4hgHyZM6bY4xeF1Q4eRdCr1F4vS4lCfDMSRJJiLtUK8F6Sxh3Wu5aW9mLNMCCGe%2BnaoW17roO8eXFkOebmxjRymRzgooeKB2d7xn1s9SeO6ocgkCaLMHeoTVBBJ0hKKfwzAVfYQkwVCDxwCC5a%2F1E67snkbL1mM%2FdDD3ByaMLctnSpYZUxKG1qAtkbAgQk6588jSdXS3Ory1ETQ4VMUhrmXPiEobjyMf6t%2BSaGalT2pOh%2F%2BPyo7vVNm3P8f1%2BMO9xZ0s5ZKHJ638ezyN1u2Uwre%2BaUItUJlCLT4KuqRoS9MXnbQd5fWynzqy%2F4JOY2e%2Bl7vEzBVSbpRgb7%2BDqUY%2FC8ANPkhODjqe2fsf%2BQOx4%2BXv57OBUAKd1y10qXw9pxik7D4qnkdohRkQRfGE3DCkqerTBjqkAWxk4ToPFea1YF4BmaODkO%2BYMxB36V5%2FI9ShGdBhM4tsBYjTAbG31vsUY7hKN%2FnOtde4z0ufpFsvXgqswNz%2FpeIftp1iNxlB03cWp52xQWjxXMHG5F3ko7U9D21gy8cBw29dqik%2BlYS4p%2F0O%2FZX1l2xaY5v4X3bOy0tOj4OM5WdKMBEZg5j6fFOR1MCsaNPsAViHP68QYJ8yWPqAwxOOP2G2zW4%2F&X-Amz-Signature=7afdbd702392f983ebabf4649fb02acdea84a726af489c2dbaa20f9b0be5f526&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-            "expiry_time": "2026-08-11T05:29:01.130Z"
+            "url": "https://prod-files-secure-apne2.s3.ap-northeast-2.amazonaws.com/abef909c-3e9d-81f7-8928-000356ef3a91/6a3f2ad2-5e18-4aef-8ee2-58fb812800fc/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-08-10_110719.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662RJNV6TM%2F20260811%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Date=20260811T045526Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLW5vcnRoZWFzdC0yIkcwRQIhAOA2mZOPgn8SSmQikAj1SmRXOm%2BJaR45YF3vbqnxbCRwAiAVCzWHq192s%2Fuda6Y6q6osR61wqfDkGwVnGqZaDg8i8SqPBAiu%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMnahPRXArl6Hu0seHKuMDWKmhik5os16fZYh2SO1XyVOqTyAUA1%2FCuVCz9ViNJGGw4ZTPsGmhvVvIdTRV6o8lj47w4gem3arTC%2B756COQI3neVEx69FtDpD95j%2B6cfsKVACo3L3W1h%2BEOV0w2v%2BINxziGBDa%2FnegNAwJgEnbBrSnJBeW6PVcOxDd6%2FiOQL3v9ObMQV64usb3rR%2FiVD6vuDd%2Bg9AKtee7w3G%2BuKqo89vLWAJNnj2imExJSTz6EbYOqXFG3IQmKK8pBzeYiwgFy44jF66qiVayRtKxswgICR4nuiSh1IzqYl0heJRYsZzi30sOlKCkPPNqQyLm8a5mbXNoZLVT9Ipt5Ai%2B2mxErb2ng0x5KHj7gv7%2F9xjoy1EyWFWi4zzw0kSePcNWf1EcoaTkEGoWBmRLZ5ZdKupyLQyzebeuOQiL5uZmw9LTiUBkO5KpRVH8UCSP5DahFJ%2FIw5vggNVctN0JArFSQ97x01N0iVKD8ElfmCyUnAorxlE%2FXIMQOb2wXLM63%2BfTHBfb7bvK6dtj1wD9SdG%2FnICKzdKIOl0ZM2O9ZB%2Bf38CnmhBUnPHZ4vJKWYhmuSfNPgmP04bMy%2FYE2lNun8sq%2F09txP6aS72KD9VJ7g5j%2BdCZZR8oiAG%2FvkQxId7E18MncCGIrf7kvMK3R6tMGOqUBW2j%2BQqIdK1DKFwLy6gobU0ni1NbFHBHE7HLuc9YWxSpTIFX70ketIpl%2B72O6QIyQmIBd0PZI%2FdI%2BGRaAYfyCn%2FG3WmL0ZrNkO51ZDXYWllP8LiSpMyB1x44jhs7kAoGW7a8zm%2Fu6B8UV170XSbapEQlbxNLA0IuhFAPgwyOsKmtHMOCm%2BwgQ7FHWkZJDlSkNj6FyF8PhmhDsr5sktc9CuaC0qnk1&X-Amz-Signature=d4df0c89acaa52d59ab3b4165c686fdf44e2ace4453e846945f239b507ff1bd7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+            "expiry_time": "2026-08-11T05:55:26.941Z"
           }
         }
       ]
@@ -324,7 +324,7 @@
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
       "created_time": "2026-08-10T08:57:00.000Z",
-      "last_edited_time": "2026-08-10T08:58:00.000Z",
+      "last_edited_time": "2026-08-11T04:30:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -357,7 +357,7 @@
           }
         ],
         "icon": null,
-        "color": "default"
+        "color": "gray"
       },
       "archived": false,
       "blocks": []
@@ -1867,13 +1867,65 @@
     },
     {
       "object": "block",
-      "id": "3b9f909c-3e9d-80df-ac6b-fc09e1b3cfa9",
+      "id": "3b9f909c-3e9d-80e0-b0ec-f7d3890bc72a",
       "parent": {
         "type": "page_id",
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
-      "created_time": "2026-08-11T00:57:00.000Z",
-      "last_edited_time": "2026-08-11T02:37:00.000Z",
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-805d-afc8-d599d3da1630",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-80d9-90de-fc5ba42fe5e6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -2625,13 +2677,65 @@
     },
     {
       "object": "block",
-      "id": "3b9f909c-3e9d-80a9-840c-d01f9fb3c966",
+      "id": "3b9f909c-3e9d-80b0-a40a-c33eed38380f",
       "parent": {
         "type": "page_id",
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
-      "created_time": "2026-08-11T01:22:00.000Z",
-      "last_edited_time": "2026-08-11T01:22:00.000Z",
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-805e-a9a7-c5e7f9a8630d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-8048-96ca-fd1a8194a250",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -3127,13 +3231,65 @@
     },
     {
       "object": "block",
-      "id": "3b9f909c-3e9d-805b-bbe3-fd515fb06d2f",
+      "id": "3b9f909c-3e9d-808b-b920-f1122c1d3413",
       "parent": {
         "type": "page_id",
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
-      "created_time": "2026-08-11T02:22:00.000Z",
-      "last_edited_time": "2026-08-11T02:22:00.000Z",
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-8021-9d39-debc865c7b6b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-8025-855c-ff35c8c3d6d2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -3540,13 +3696,65 @@
     },
     {
       "object": "block",
-      "id": "3b9f909c-3e9d-807b-ac85-fe0af914ae43",
+      "id": "3b9f909c-3e9d-8035-b27e-f9165fe5748b",
       "parent": {
         "type": "page_id",
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
-      "created_time": "2026-08-11T02:29:00.000Z",
-      "last_edited_time": "2026-08-11T02:30:00.000Z",
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-802f-8231-d209c047a9e8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-8010-ac21-c08ca48aafc1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -3748,13 +3956,65 @@
     },
     {
       "object": "block",
-      "id": "3b9f909c-3e9d-8083-b510-c98174d62805",
+      "id": "3b9f909c-3e9d-80c6-b530-c111e21e470a",
       "parent": {
         "type": "page_id",
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
-      "created_time": "2026-08-11T02:44:00.000Z",
-      "last_edited_time": "2026-08-11T02:44:00.000Z",
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-8028-a166-f49e15ffb351",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-80da-bfaa-f4c597f950e5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5080,13 +5340,65 @@
     },
     {
       "object": "block",
-      "id": "3b9f909c-3e9d-80e5-8858-c76e14ddd0a0",
+      "id": "3b9f909c-3e9d-80c8-8675-d40c155e1cba",
       "parent": {
         "type": "page_id",
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
-      "created_time": "2026-08-11T04:08:00.000Z",
-      "last_edited_time": "2026-08-11T04:08:00.000Z",
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-801a-923a-f2c8a5054328",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-80d7-a57f-e9e9b805555d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5160,7 +5472,7 @@
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
       "created_time": "2026-08-11T04:08:00.000Z",
-      "last_edited_time": "2026-08-11T04:18:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5193,7 +5505,7 @@
           }
         ],
         "icon": null,
-        "color": "gray"
+        "color": "default"
       },
       "archived": false,
       "blocks": []
@@ -5292,7 +5604,7 @@
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
       "created_time": "2026-08-11T04:25:00.000Z",
-      "last_edited_time": "2026-08-11T04:28:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5324,20 +5636,72 @@
             "href": null
           }
         ],
-        "color": "gray"
+        "color": "purple_background"
       },
       "archived": false,
       "blocks": []
     },
     {
       "object": "block",
-      "id": "3b9f909c-3e9d-80a8-9352-edcf23ee3283",
+      "id": "3b9f909c-3e9d-800a-a588-c50fc840f1ee",
       "parent": {
         "type": "page_id",
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
-      "created_time": "2026-08-11T04:26:00.000Z",
-      "last_edited_time": "2026-08-11T04:26:00.000Z",
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-802c-8dc7-e087899cf02c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-80fa-a812-e03d7e98848e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:29:00.000Z",
+      "last_edited_time": "2026-08-11T04:29:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5411,7 +5775,7 @@
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
       "created_time": "2026-08-10T08:54:00.000Z",
-      "last_edited_time": "2026-08-11T04:15:00.000Z",
+      "last_edited_time": "2026-08-11T04:30:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -5444,7 +5808,7 @@
           }
         ],
         "icon": null,
-        "color": "gray"
+        "color": "default"
       },
       "archived": false,
       "blocks": []
@@ -6564,9 +6928,9 @@
           {
             "type": "text",
             "text": {
-              "content": "Microsoft Learn - .NET 소개",
+              "content": "Microsoft Learn - 관리형 실행 프로세스",
               "link": {
-                "url": "https://learn.microsoft.com/ko-kr/dotnet/core/introduction"
+                "url": "https://learn.microsoft.com/ko-kr/dotnet/standard/managed-execution-process"
               }
             },
             "annotations": {
@@ -6577,8 +6941,8 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "Microsoft Learn - .NET 소개",
-            "href": "https://learn.microsoft.com/ko-kr/dotnet/core/introduction"
+            "plain_text": "Microsoft Learn - 관리형 실행 프로세스",
+            "href": "https://learn.microsoft.com/ko-kr/dotnet/standard/managed-execution-process"
           }
         ],
         "icon": {
@@ -6632,9 +6996,9 @@
           {
             "type": "text",
             "text": {
-              "content": "Microsoft Learn -  C# 언어 전략",
+              "content": "Microsoft Learn -  메타데이터",
               "link": {
-                "url": "https://learn.microsoft.com/ko-kr/dotnet/csharp/tour-of-csharp/strategy"
+                "url": "https://learn.microsoft.com/ko-kr/dotnet/standard/metadata-and-self-describing-components"
               }
             },
             "annotations": {
@@ -6645,8 +7009,8 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "Microsoft Learn -  C# 언어 전략",
-            "href": "https://learn.microsoft.com/ko-kr/dotnet/csharp/tour-of-csharp/strategy"
+            "plain_text": "Microsoft Learn -  메타데이터",
+            "href": "https://learn.microsoft.com/ko-kr/dotnet/standard/metadata-and-self-describing-components"
           }
         ],
         "icon": {
@@ -6768,9 +7132,9 @@
           {
             "type": "text",
             "text": {
-              "content": "Microsoft Learn -  .NET 실행 프로세스 안내",
+              "content": "Microsoft Learn -  CTS(공용 형식 시스템)",
               "link": {
-                "url": "https://learn.microsoft.com/ko-kr/dotnet/standard/managed-execution-process"
+                "url": "https://learn.microsoft.com/ko-kr/dotnet/standard/base-types/common-type-system"
               }
             },
             "annotations": {
@@ -6781,8 +7145,76 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "Microsoft Learn -  .NET 실행 프로세스 안내",
-            "href": "https://learn.microsoft.com/ko-kr/dotnet/standard/managed-execution-process"
+            "plain_text": "Microsoft Learn -  CTS(공용 형식 시스템)",
+            "href": "https://learn.microsoft.com/ko-kr/dotnet/standard/base-types/common-type-system"
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "📎"
+        },
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-80b4-b9fd-f0b900805679",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T04:34:00.000Z",
+      "last_edited_time": "2026-08-11T04:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "참고: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "참고: ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "ECMA - CLI(공용 언어 인프라)",
+              "link": {
+                "url": "https://ecma-international.org/publications-and-standards/standards/ecma-335/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ECMA - CLI(공용 언어 인프라)",
+            "href": "https://ecma-international.org/publications-and-standards/standards/ecma-335/"
           }
         ],
         "icon": {
