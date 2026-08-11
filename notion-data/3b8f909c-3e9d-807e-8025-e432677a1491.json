@@ -2,7 +2,7 @@
   "object": "page",
   "id": "3b8f909c-3e9d-807e-8025-e432677a1491",
   "created_time": "2026-08-10T08:37:00.000Z",
-  "last_edited_time": "2026-08-11T01:49:00.000Z",
+  "last_edited_time": "2026-08-11T02:39:00.000Z",
   "created_by": {
     "object": "user",
     "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -48,8 +48,8 @@
           "name": "스크린샷 2026-08-10 110719.png",
           "type": "file",
           "file": {
-            "url": "https://prod-files-secure-apne2.s3.ap-northeast-2.amazonaws.com/abef909c-3e9d-81f7-8928-000356ef3a91/6a3f2ad2-5e18-4aef-8ee2-58fb812800fc/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-08-10_110719.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4667ZTUH3L4%2F20260811%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Date=20260811T021203Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLW5vcnRoZWFzdC0yIkgwRgIhAM%2F0iv9gUKB%2FTeXO%2Bqm6GlXkJ5%2Ft64ZQn62WYlzSSQGKAiEAy8rdx9vP5zhqbdpOr2pqp049HFga2SPTZpnL11yx4MYqjwQIqv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDG6EU8EDAsRi650KuirjA8WANaajj56htNuyaC0%2FZsqMcyydyrgvhjGPPwXQBq45x5wRY8Hqstu28ImG0lIXPvCVif2lIqcJSeSbqxEGluCiiqG75Ds4QMtQZ8EYOgufy%2FT2V3jLie2UNSQ96N8Q52cZkrYiWCU5dQaZ4kfZcN3ac0eA2Szqrbv54YAPN5F04OkpqkWtVrSUNaC8OEF69hj9BT2zfkK03V%2FNBhjHg2XbG%2F8A%2BI0qLlKEGGIjWnRpKR6P5ib1kCFrkkqih1nwumyFQsqaG1qyyO8kjBcd3fMJx3o%2BWiUe2PapEsQmq5Zva4MbzQ9Qzq%2FxgalBzeHDQ4JuAs40ezV6Boo12uomrlFlBQTMxH%2Br9iKxaFSs3VVXzQjlYUBUABsAfJCypKTyzg30VAmvPJnogeE1GqkORJVriA2TPRzsvo5x9C1k9%2BOt5wOLHAXT4XLCdEEiFvOXXloZ6gIHlxoNgQ1yOAie1mwYE8%2F2RkjPlhinoOGy9NAbrPhq51ZGHDvsMaWLBJe1%2BiQpxnSCrCCFkA%2B9NV1Pr8Mm5u5ysqP3d8x66TDlOu7S6Meh9oeaR8TsYUWTKz5oK1EVUS9wcCE4T4sTvDFgzH2rjGf3a1O9Psm4aw8UELkXre8vPceApycv14s3eKstj0DqmzDm2%2BnTBjqkAbp4ic4Y%2Bo9%2B6h%2BEFN%2FMmdo81yE46K3Qdsp7DOYKgjaoLlxQsyJNCYrFusSWQnVye8WFPwOiG7qBDoepLd0KbwryVyD6LJx3nDC%2BnldVNiqSxLK9Y07fdENnBxxdX9NiUiytuZMJnGi87rcCYDp1WaZlFYDgXxZTZn%2BJFqZ38TXNSHaZZNcVcLx76J3D%2BSiESoqfOzTAa%2FGYTSRF50xIxPDIk0me&X-Amz-Signature=d00ddb8c273310421afd4947e0a1784a29d44b974bbc45287e274e784c76fed9&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-            "expiry_time": "2026-08-11T03:12:03.583Z"
+            "url": "https://prod-files-secure-apne2.s3.ap-northeast-2.amazonaws.com/abef909c-3e9d-81f7-8928-000356ef3a91/6a3f2ad2-5e18-4aef-8ee2-58fb812800fc/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-08-10_110719.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UFP2ID53%2F20260811%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Date=20260811T024135Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLW5vcnRoZWFzdC0yIkgwRgIhAM3BnP%2B21i5FNgUDR82RubY2hgBTG6miMx%2B4P%2B9P6Co4AiEA6d3dPVBmEgRgX1RqtiG7w4CgAc1Uf8ZHyU8zt3SY7D8qjwQIq%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDJSIKHsUIS%2BlD6qIwSrjA9R5NlvuF2htZrSiVj%2Bj4VbXo6S2rsoBPtcLqzwWNXOjJRGoHuK33G4LIu%2FDm%2FIb3v8R5lnNL0E9xiqJQb3kWlaQ4apn7vVZOT1tIzgiy5hCQjHcXmiTbrRvOyK%2FQHCDeAHi06jykKRpuOwBxEufB4viOxJSaxOLKNsJfCPVxcZx9o%2B2LkYMrwqjAGj3JMN784V8hMIrnO0aYYM%2Bu3l3otH%2FQcUAKrNql3fQYFX9Xvzt6Xnpd%2Fc4YlcRoPLv9G2yzhAql8aG2%2BFKm42vCSYdqGVF20Z%2FtR7G9RATxVULxaX2v0j%2BUTHgGzrmbClgqsza5Juvpw55AMc3A48p0lY7JdwrW5bJlXb3%2BP6CKWRk4XO7YfPzp5fuQHguYbIxknYJ1ZE0BXG4a1lLONKHD0cvAlfwz%2FCA3OqFGg7G2M3Vg6I6SUi26YghipvkXrQ9vM7B0dN0A3pXnjBQfNWt8w81dZdGs012xgNe0Om8UVNGfLUOo6lIAtW0nd2ThZDExClpazTJ8rfxY1JMOjFAowfK0nGbiCbr4bvai1KJ3T6mNDwuM5L%2BkMgaKwRqAE%2FKDvdnusbWDeZ1NOfHghTLI%2B8f8qLaJoOKz%2Fdmhk%2FQ6jQZWea%2BpyPfXNMlzn5ZuOCPCmB5nWna2TDs%2FenTBjqkAQrffeAFzqZjTvx4AcUHz4xNTJV97uyzit2%2Fl%2F0y3Mi%2BgB0iIKMtrglbApNQ4RsJ6I1TiVYKk6pBV7gkDkd%2FPti%2FWItvOaMA7EO3aC9qWBkI1p%2FZoWuggE6qe6BFWqXxYaPoZweTZ%2FdCwZJrgq8XHVM%2BcWh4MKB2WU00uPBDrvkXYIlYiTOcqyrhnFoBkWl%2B7iloNNMSeW8qUZD2dKSuXfF0yDKA&X-Amz-Signature=cb23b7e6a9190b4d888386cf105574a5cd95fb33929fdf8588952bf2a23994f9&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+            "expiry_time": "2026-08-11T03:41:35.143Z"
           }
         }
       ]
@@ -232,6 +232,34 @@
     },
     {
       "object": "block",
+      "id": "3b9f909c-3e9d-8099-a428-c2ba7d37a8fd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T02:36:00.000Z",
+      "last_edited_time": "2026-08-11T02:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
       "id": "3b8f909c-3e9d-801b-90f8-f816e55cf570",
       "parent": {
         "type": "page_id",
@@ -256,6 +284,34 @@
         "external": {
           "url": "/notion-data/3b8f909c-3e9d-807e-8025-e432677a1491/image-3b8f909c3e9d801b90f8f816e55cf570.png"
         }
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-8077-9c9b-f25e246246fd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T02:36:00.000Z",
+      "last_edited_time": "2026-08-11T02:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
       },
       "archived": false,
       "blocks": []
@@ -348,6 +404,34 @@
           }
         ],
         "language": "c#"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-8058-94c5-dd7fb5eeaedf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T02:35:00.000Z",
+      "last_edited_time": "2026-08-11T02:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
       },
       "archived": false,
       "blocks": []
@@ -566,13 +650,13 @@
     },
     {
       "object": "block",
-      "id": "3b9f909c-3e9d-80fc-97d3-c86d90b91cef",
+      "id": "3b9f909c-3e9d-80a7-98ea-cac6eabad96f",
       "parent": {
         "type": "page_id",
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
-      "created_time": "2026-08-11T00:08:00.000Z",
-      "last_edited_time": "2026-08-11T00:55:00.000Z",
+      "created_time": "2026-08-11T02:36:00.000Z",
+      "last_edited_time": "2026-08-11T02:36:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -583,16 +667,151 @@
       },
       "has_children": false,
       "in_trash": false,
-      "type": "image",
-      "image": {
-        "caption": [],
-        "type": "external",
-        "external": {
-          "url": "/notion-data/3b8f909c-3e9d-807e-8025-e432677a1491/image-3b9f909c3e9d80fc97d3c86d90b91cef.png"
-        }
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
       },
       "archived": false,
       "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-805e-a9e1-f7012ef0cad0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T02:36:00.000Z",
+      "last_edited_time": "2026-08-11T02:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "archived": false,
+      "blocks": [
+        {
+          "object": "block",
+          "id": "3b9f909c-3e9d-8091-9f4d-d4fa6431dd1c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3b9f909c-3e9d-805e-a9e1-f7012ef0cad0"
+          },
+          "created_time": "2026-08-11T02:36:00.000Z",
+          "last_edited_time": "2026-08-11T02:37:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.6875
+          },
+          "archived": false,
+          "blocks": [
+            {
+              "object": "block",
+              "id": "3b9f909c-3e9d-80fc-97d3-c86d90b91cef",
+              "parent": {
+                "type": "block_id",
+                "block_id": "3b9f909c-3e9d-8091-9f4d-d4fa6431dd1c"
+              },
+              "created_time": "2026-08-11T00:08:00.000Z",
+              "last_edited_time": "2026-08-11T02:36:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "external",
+                "external": {
+                  "url": "/notion-data/3b8f909c-3e9d-807e-8025-e432677a1491/image-3b9f909c3e9d80fc97d3c86d90b91cef.png"
+                }
+              },
+              "archived": false,
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "3b9f909c-3e9d-80dc-9694-fd032f0fe9d0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3b9f909c-3e9d-805e-a9e1-f7012ef0cad0"
+          },
+          "created_time": "2026-08-11T02:36:00.000Z",
+          "last_edited_time": "2026-08-11T02:37:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.31249999999999994
+          },
+          "archived": false,
+          "blocks": [
+            {
+              "object": "block",
+              "id": "3b9f909c-3e9d-80f3-a86e-eb7044b36370",
+              "parent": {
+                "type": "block_id",
+                "block_id": "3b9f909c-3e9d-80dc-9694-fd032f0fe9d0"
+              },
+              "created_time": "2026-08-11T02:36:00.000Z",
+              "last_edited_time": "2026-08-11T02:36:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [],
+                "icon": null,
+                "color": "default"
+              },
+              "archived": false,
+              "blocks": []
+            }
+          ]
+        }
+      ]
     },
     {
       "object": "block",
@@ -1654,7 +1873,7 @@
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
       "created_time": "2026-08-11T00:57:00.000Z",
-      "last_edited_time": "2026-08-11T00:57:00.000Z",
+      "last_edited_time": "2026-08-11T02:37:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -2149,7 +2368,7 @@
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
       "created_time": "2026-08-11T01:18:00.000Z",
-      "last_edited_time": "2026-08-11T01:18:00.000Z",
+      "last_edited_time": "2026-08-11T02:33:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -2172,7 +2391,7 @@
             "block_id": "3b9f909c-3e9d-8010-902d-e3d028a30490"
           },
           "created_time": "2026-08-11T01:18:00.000Z",
-          "last_edited_time": "2026-08-11T01:21:00.000Z",
+          "last_edited_time": "2026-08-11T02:33:00.000Z",
           "created_by": {
             "object": "user",
             "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -2526,13 +2745,13 @@
     },
     {
       "object": "block",
-      "id": "3b9f909c-3e9d-8088-a016-e562c0497372",
+      "id": "3b9f909c-3e9d-80a9-80db-d49392e5e366",
       "parent": {
         "type": "page_id",
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
-      "created_time": "2026-08-11T01:27:00.000Z",
-      "last_edited_time": "2026-08-11T01:37:00.000Z",
+      "created_time": "2026-08-11T01:41:00.000Z",
+      "last_edited_time": "2026-08-11T02:21:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -2549,13 +2768,13 @@
       "blocks": [
         {
           "object": "block",
-          "id": "3b9f909c-3e9d-808d-9a12-fe294ab3110e",
+          "id": "3b9f909c-3e9d-801b-8ff4-cddb8f062721",
           "parent": {
             "type": "block_id",
-            "block_id": "3b9f909c-3e9d-8088-a016-e562c0497372"
+            "block_id": "3b9f909c-3e9d-80a9-80db-d49392e5e366"
           },
-          "created_time": "2026-08-11T01:27:00.000Z",
-          "last_edited_time": "2026-08-11T01:49:00.000Z",
+          "created_time": "2026-08-11T01:41:00.000Z",
+          "last_edited_time": "2026-08-11T01:41:00.000Z",
           "created_by": {
             "object": "user",
             "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -2568,275 +2787,19 @@
           "in_trash": false,
           "type": "column",
           "column": {
-            "width_ratio": 0.9375
+            "width_ratio": 1
           },
           "archived": false,
           "blocks": [
             {
               "object": "block",
-              "id": "3b9f909c-3e9d-80a9-80db-d49392e5e366",
+              "id": "3b9f909c-3e9d-805e-8c12-d982b2d119b8",
               "parent": {
                 "type": "block_id",
-                "block_id": "3b9f909c-3e9d-808d-9a12-fe294ab3110e"
+                "block_id": "3b9f909c-3e9d-801b-8ff4-cddb8f062721"
               },
-              "created_time": "2026-08-11T01:41:00.000Z",
+              "created_time": "2026-08-11T01:33:00.000Z",
               "last_edited_time": "2026-08-11T01:41:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-              },
-              "has_children": true,
-              "in_trash": false,
-              "type": "column_list",
-              "column_list": {},
-              "archived": false,
-              "blocks": [
-                {
-                  "object": "block",
-                  "id": "3b9f909c-3e9d-801b-8ff4-cddb8f062721",
-                  "parent": {
-                    "type": "block_id",
-                    "block_id": "3b9f909c-3e9d-80a9-80db-d49392e5e366"
-                  },
-                  "created_time": "2026-08-11T01:41:00.000Z",
-                  "last_edited_time": "2026-08-11T01:41:00.000Z",
-                  "created_by": {
-                    "object": "user",
-                    "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-                  },
-                  "last_edited_by": {
-                    "object": "user",
-                    "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-                  },
-                  "has_children": true,
-                  "in_trash": false,
-                  "type": "column",
-                  "column": {
-                    "width_ratio": 1
-                  },
-                  "archived": false,
-                  "blocks": [
-                    {
-                      "object": "block",
-                      "id": "3b9f909c-3e9d-805e-8c12-d982b2d119b8",
-                      "parent": {
-                        "type": "block_id",
-                        "block_id": "3b9f909c-3e9d-801b-8ff4-cddb8f062721"
-                      },
-                      "created_time": "2026-08-11T01:33:00.000Z",
-                      "last_edited_time": "2026-08-11T01:41:00.000Z",
-                      "created_by": {
-                        "object": "user",
-                        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-                      },
-                      "last_edited_by": {
-                        "object": "user",
-                        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-                      },
-                      "has_children": false,
-                      "in_trash": false,
-                      "type": "image",
-                      "image": {
-                        "caption": [],
-                        "type": "external",
-                        "external": {
-                          "url": "/notion-data/3b8f909c-3e9d-807e-8025-e432677a1491/image-3b9f909c3e9d805e8c12d982b2d119b8.png"
-                        }
-                      },
-                      "archived": false,
-                      "blocks": []
-                    }
-                  ]
-                },
-                {
-                  "object": "block",
-                  "id": "3b9f909c-3e9d-807a-85fa-d122e80f7f71",
-                  "parent": {
-                    "type": "block_id",
-                    "block_id": "3b9f909c-3e9d-80a9-80db-d49392e5e366"
-                  },
-                  "created_time": "2026-08-11T01:41:00.000Z",
-                  "last_edited_time": "2026-08-11T01:42:00.000Z",
-                  "created_by": {
-                    "object": "user",
-                    "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-                  },
-                  "last_edited_by": {
-                    "object": "user",
-                    "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-                  },
-                  "has_children": true,
-                  "in_trash": false,
-                  "type": "column",
-                  "column": {
-                    "width_ratio": 0.25
-                  },
-                  "archived": false,
-                  "blocks": [
-                    {
-                      "object": "block",
-                      "id": "3b9f909c-3e9d-80d2-9d23-f66722f9718b",
-                      "parent": {
-                        "type": "block_id",
-                        "block_id": "3b9f909c-3e9d-807a-85fa-d122e80f7f71"
-                      },
-                      "created_time": "2026-08-11T01:41:00.000Z",
-                      "last_edited_time": "2026-08-11T01:42:00.000Z",
-                      "created_by": {
-                        "object": "user",
-                        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-                      },
-                      "last_edited_by": {
-                        "object": "user",
-                        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-                      },
-                      "has_children": false,
-                      "in_trash": false,
-                      "type": "paragraph",
-                      "paragraph": {
-                        "rich_text": [
-                          {
-                            "type": "equation",
-                            "equation": {
-                              "expression": "\\tiny\\bf metadata~token"
-                            },
-                            "annotations": {
-                              "bold": false,
-                              "italic": false,
-                              "strikethrough": false,
-                              "underline": false,
-                              "code": false,
-                              "color": "default"
-                            },
-                            "plain_text": "\\tiny\\bf metadata~token",
-                            "href": null
-                          },
-                          {
-                            "type": "text",
-                            "text": {
-                              "content": "    —>",
-                              "link": null
-                            },
-                            "annotations": {
-                              "bold": false,
-                              "italic": false,
-                              "strikethrough": false,
-                              "underline": false,
-                              "code": false,
-                              "color": "default"
-                            },
-                            "plain_text": "    —>",
-                            "href": null
-                          }
-                        ],
-                        "icon": null,
-                        "color": "gray"
-                      },
-                      "archived": false,
-                      "blocks": []
-                    },
-                    {
-                      "object": "block",
-                      "id": "3b9f909c-3e9d-80f5-a76b-f87cfd1a51cf",
-                      "parent": {
-                        "type": "block_id",
-                        "block_id": "3b9f909c-3e9d-807a-85fa-d122e80f7f71"
-                      },
-                      "created_time": "2026-08-11T01:42:00.000Z",
-                      "last_edited_time": "2026-08-11T01:42:00.000Z",
-                      "created_by": {
-                        "object": "user",
-                        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-                      },
-                      "last_edited_by": {
-                        "object": "user",
-                        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-                      },
-                      "has_children": false,
-                      "in_trash": false,
-                      "type": "paragraph",
-                      "paragraph": {
-                        "rich_text": [],
-                        "icon": null,
-                        "color": "default"
-                      },
-                      "archived": false,
-                      "blocks": []
-                    }
-                  ]
-                },
-                {
-                  "object": "block",
-                  "id": "3b9f909c-3e9d-80a0-99a1-ccd1cc0c64ec",
-                  "parent": {
-                    "type": "block_id",
-                    "block_id": "3b9f909c-3e9d-80a9-80db-d49392e5e366"
-                  },
-                  "created_time": "2026-08-11T01:41:00.000Z",
-                  "last_edited_time": "2026-08-11T01:42:00.000Z",
-                  "created_by": {
-                    "object": "user",
-                    "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-                  },
-                  "last_edited_by": {
-                    "object": "user",
-                    "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-                  },
-                  "has_children": true,
-                  "in_trash": false,
-                  "type": "column",
-                  "column": {
-                    "width_ratio": 0.9583333333333333
-                  },
-                  "archived": false,
-                  "blocks": [
-                    {
-                      "object": "block",
-                      "id": "3b9f909c-3e9d-80d3-8591-cadaf86e7ba0",
-                      "parent": {
-                        "type": "block_id",
-                        "block_id": "3b9f909c-3e9d-80a0-99a1-ccd1cc0c64ec"
-                      },
-                      "created_time": "2026-08-11T01:36:00.000Z",
-                      "last_edited_time": "2026-08-11T01:41:00.000Z",
-                      "created_by": {
-                        "object": "user",
-                        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-                      },
-                      "last_edited_by": {
-                        "object": "user",
-                        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-                      },
-                      "has_children": false,
-                      "in_trash": false,
-                      "type": "image",
-                      "image": {
-                        "caption": [],
-                        "type": "external",
-                        "external": {
-                          "url": "/notion-data/3b8f909c-3e9d-807e-8025-e432677a1491/image-3b9f909c3e9d80d38591cadaf86e7ba0.png"
-                        }
-                      },
-                      "archived": false,
-                      "blocks": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "object": "block",
-              "id": "3b9f909c-3e9d-80cb-8a3b-fbd506acaf8b",
-              "parent": {
-                "type": "block_id",
-                "block_id": "3b9f909c-3e9d-808d-9a12-fe294ab3110e"
-              },
-              "created_time": "2026-08-11T01:48:00.000Z",
-              "last_edited_time": "2026-08-11T01:48:00.000Z",
               "created_by": {
                 "object": "user",
                 "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -2852,76 +2815,8 @@
                 "caption": [],
                 "type": "external",
                 "external": {
-                  "url": "/notion-data/3b8f909c-3e9d-807e-8025-e432677a1491/image-3b9f909c3e9d80cb8a3bfbd506acaf8b.png"
+                  "url": "/notion-data/3b8f909c-3e9d-807e-8025-e432677a1491/image-3b9f909c3e9d805e8c12d982b2d119b8.png"
                 }
-              },
-              "archived": false,
-              "blocks": []
-            },
-            {
-              "object": "block",
-              "id": "3b9f909c-3e9d-8030-a0a5-d455dcb861a0",
-              "parent": {
-                "type": "block_id",
-                "block_id": "3b9f909c-3e9d-808d-9a12-fe294ab3110e"
-              },
-              "created_time": "2026-08-11T01:49:00.000Z",
-              "last_edited_time": "2026-08-11T01:49:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-              },
-              "has_children": false,
-              "in_trash": false,
-              "type": "callout",
-              "callout": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "참고: ",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "참고: ",
-                    "href": null
-                  },
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "Microsoft Learn - .NET 소개",
-                      "link": {
-                        "url": "https://learn.microsoft.com/ko-kr/dotnet/core/introduction"
-                      }
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "Microsoft Learn - .NET 소개",
-                    "href": "https://learn.microsoft.com/ko-kr/dotnet/core/introduction"
-                  }
-                ],
-                "icon": {
-                  "type": "emoji",
-                  "emoji": "📎"
-                },
-                "color": "default"
               },
               "archived": false,
               "blocks": []
@@ -2930,13 +2825,13 @@
         },
         {
           "object": "block",
-          "id": "3b9f909c-3e9d-809a-977d-fe517946c830",
+          "id": "3b9f909c-3e9d-807a-85fa-d122e80f7f71",
           "parent": {
             "type": "block_id",
-            "block_id": "3b9f909c-3e9d-8088-a016-e562c0497372"
+            "block_id": "3b9f909c-3e9d-80a9-80db-d49392e5e366"
           },
-          "created_time": "2026-08-11T01:27:00.000Z",
-          "last_edited_time": "2026-08-11T01:41:00.000Z",
+          "created_time": "2026-08-11T01:41:00.000Z",
+          "last_edited_time": "2026-08-11T01:42:00.000Z",
           "created_by": {
             "object": "user",
             "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -2949,19 +2844,166 @@
           "in_trash": false,
           "type": "column",
           "column": {
-            "width_ratio": 0.0625
+            "width_ratio": 0.25
           },
           "archived": false,
           "blocks": [
             {
               "object": "block",
-              "id": "3b9f909c-3e9d-80f8-9183-d8b6a5247b60",
+              "id": "3b9f909c-3e9d-80d2-9d23-f66722f9718b",
               "parent": {
                 "type": "block_id",
-                "block_id": "3b9f909c-3e9d-809a-977d-fe517946c830"
+                "block_id": "3b9f909c-3e9d-807a-85fa-d122e80f7f71"
               },
-              "created_time": "2026-08-11T01:27:00.000Z",
-              "last_edited_time": "2026-08-11T01:27:00.000Z",
+              "created_time": "2026-08-11T01:41:00.000Z",
+              "last_edited_time": "2026-08-11T01:42:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "equation",
+                    "equation": {
+                      "expression": "\\tiny\\bf metadata~token"
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\\tiny\\bf metadata~token",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "    —>",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "    —>",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "gray"
+              },
+              "archived": false,
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "3b9f909c-3e9d-80f5-a76b-f87cfd1a51cf",
+              "parent": {
+                "type": "block_id",
+                "block_id": "3b9f909c-3e9d-807a-85fa-d122e80f7f71"
+              },
+              "created_time": "2026-08-11T01:42:00.000Z",
+              "last_edited_time": "2026-08-11T01:42:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [],
+                "icon": null,
+                "color": "default"
+              },
+              "archived": false,
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "3b9f909c-3e9d-80a0-99a1-ccd1cc0c64ec",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3b9f909c-3e9d-80a9-80db-d49392e5e366"
+          },
+          "created_time": "2026-08-11T01:41:00.000Z",
+          "last_edited_time": "2026-08-11T02:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.9583333333333333
+          },
+          "archived": false,
+          "blocks": [
+            {
+              "object": "block",
+              "id": "3b9f909c-3e9d-80d3-8591-cadaf86e7ba0",
+              "parent": {
+                "type": "block_id",
+                "block_id": "3b9f909c-3e9d-80a0-99a1-ccd1cc0c64ec"
+              },
+              "created_time": "2026-08-11T01:36:00.000Z",
+              "last_edited_time": "2026-08-11T02:21:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "external",
+                "external": {
+                  "url": "/notion-data/3b8f909c-3e9d-807e-8025-e432677a1491/image-3b9f909c3e9d80d38591cadaf86e7ba0.png"
+                }
+              },
+              "archived": false,
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "3b9f909c-3e9d-80e0-aa60-d20b0358fb0c",
+              "parent": {
+                "type": "block_id",
+                "block_id": "3b9f909c-3e9d-80a0-99a1-ccd1cc0c64ec"
+              },
+              "created_time": "2026-08-11T02:21:00.000Z",
+              "last_edited_time": "2026-08-11T02:21:00.000Z",
               "created_by": {
                 "object": "user",
                 "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -2987,13 +3029,702 @@
     },
     {
       "object": "block",
+      "id": "3b9f909c-3e9d-80cb-8a3b-fbd506acaf8b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T01:48:00.000Z",
+      "last_edited_time": "2026-08-11T02:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "external",
+        "external": {
+          "url": "/notion-data/3b8f909c-3e9d-807e-8025-e432677a1491/image-3b9f909c3e9d80cb8a3bfbd506acaf8b.png"
+        }
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-8030-a0a5-d455dcb861a0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T01:49:00.000Z",
+      "last_edited_time": "2026-08-11T02:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "참고: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "참고: ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Microsoft Learn - .NET 소개",
+              "link": {
+                "url": "https://learn.microsoft.com/ko-kr/dotnet/core/introduction"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Microsoft Learn - .NET 소개",
+            "href": "https://learn.microsoft.com/ko-kr/dotnet/core/introduction"
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "📎"
+        },
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-805b-bbe3-fd515fb06d2f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T02:22:00.000Z",
+      "last_edited_time": "2026-08-11T02:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-80e1-be1d-de6b92f0146c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T02:22:00.000Z",
+      "last_edited_time": "2026-08-11T02:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "04. 서로 다른 언어가 같은 어셈블리를 공유하는 이유",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "04. 서로 다른 언어가 같은 어셈블리를 공유하는 이유",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "purple"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-803e-86a3-de4c37232a66",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T02:23:00.000Z",
+      "last_edited_time": "2026-08-11T02:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "C#, F#, Visual Basic은 문법이 다르지만 .NET을 대상으로 컴파일되면 CLI가 정의한 타입과 메타데이터 형식을 사용한다. 그래서 한 언어로 만든 클래스를 다른 언어에서 호출하거나 상속할 수 있다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "C#, F#, Visual Basic은 문법이 다르지만 .NET을 대상으로 컴파일되면 CLI가 정의한 타입과 메타데이터 형식을 사용한다. 그래서 한 언어로 만든 클래스를 다른 언어에서 호출하거나 상속할 수 있다.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-80bc-818a-fb74e4365eb5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T02:24:00.000Z",
+      "last_edited_time": "2026-08-11T02:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "external",
+        "external": {
+          "url": "/notion-data/3b8f909c-3e9d-807e-8025-e432677a1491/image-3b9f909c3e9d80bc818afb74e4365eb5.png"
+        }
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-8016-8070-ffb16fd31353",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T02:26:00.000Z",
+      "last_edited_time": "2026-08-11T02:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "archived": false,
+      "blocks": [
+        {
+          "object": "block",
+          "id": "3b9f909c-3e9d-80d7-95df-d0aca9fa5117",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3b9f909c-3e9d-8016-8070-ffb16fd31353"
+          },
+          "created_time": "2026-08-11T02:26:00.000Z",
+          "last_edited_time": "2026-08-11T02:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.5
+          },
+          "archived": false,
+          "blocks": [
+            {
+              "object": "block",
+              "id": "3b9f909c-3e9d-8093-ade5-c0306f0feed4",
+              "parent": {
+                "type": "block_id",
+                "block_id": "3b9f909c-3e9d-80d7-95df-d0aca9fa5117"
+              },
+              "created_time": "2026-08-11T02:26:00.000Z",
+              "last_edited_time": "2026-08-11T02:26:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "CTS(Common Type System)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "CTS(Common Type System)",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "archived": false,
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "3b9f909c-3e9d-80bc-8fe1-ea7a42931fbe",
+              "parent": {
+                "type": "block_id",
+                "block_id": "3b9f909c-3e9d-80d7-95df-d0aca9fa5117"
+              },
+              "created_time": "2026-08-11T02:26:00.000Z",
+              "last_edited_time": "2026-08-11T02:27:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "타입이 어떻게 선언되고 사용되며 관리 되는지 정의한다. 여러 언어가 서로 다른 문법을 쓰더라도 공통된 타입 모델로 만날 수 있게 한다.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "타입이 어떻게 선언되고 사용되며 관리 되는지 정의한다. 여러 언어가 서로 다른 문법을 쓰더라도 공통된 타입 모델로 만날 수 있게 한다.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "gray"
+              },
+              "archived": false,
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "3b9f909c-3e9d-80be-a6ab-f1e14ace38c4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "3b9f909c-3e9d-8016-8070-ffb16fd31353"
+          },
+          "created_time": "2026-08-11T02:26:00.000Z",
+          "last_edited_time": "2026-08-11T02:29:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+          },
+          "has_children": true,
+          "in_trash": false,
+          "type": "column",
+          "column": {
+            "width_ratio": 0.5
+          },
+          "archived": false,
+          "blocks": [
+            {
+              "object": "block",
+              "id": "3b9f909c-3e9d-800b-a679-fe899242c55a",
+              "parent": {
+                "type": "block_id",
+                "block_id": "3b9f909c-3e9d-80be-a6ab-f1e14ace38c4"
+              },
+              "created_time": "2026-08-11T02:26:00.000Z",
+              "last_edited_time": "2026-08-11T02:27:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "CLS(Common Language Specification)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "CLS(Common Language Specification)",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "archived": false,
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "3b9f909c-3e9d-8038-adc8-e188cd7a39a4",
+              "parent": {
+                "type": "block_id",
+                "block_id": "3b9f909c-3e9d-80be-a6ab-f1e14ace38c4"
+              },
+              "created_time": "2026-08-11T02:27:00.000Z",
+              "last_edited_time": "2026-08-11T02:28:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+              },
+              "has_children": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "언어와 라이브러리가 넓게 상호 운용되기 위해 지켜야하는 공통 규칙의 부분집합이다. 모든 언어 기능이 서로 완전히 동일하다는 뜻은 아니다.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "언어와 라이브러리가 넓게 상호 운용되기 위해 지켜야하는 공통 규칙의 부분집합이다. 모든 언어 기능이 서로 완전히 동일하다는 뜻은 아니다.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "gray"
+              },
+              "archived": false,
+              "blocks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-807b-ac85-fe0af914ae43",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T02:29:00.000Z",
+      "last_edited_time": "2026-08-11T02:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-80f5-ac87-ca434f29842b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T02:29:00.000Z",
+      "last_edited_time": "2026-08-11T02:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "05. CLR은 어셈블리를 읽고, JIT은 필요한 메서드를 번역한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "05. CLR은 어셈블리를 읽고, JIT은 필요한 메서드를 번역한다.",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "purple"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-8091-b440-d51cc97eced1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T02:30:00.000Z",
+      "last_edited_time": "2026-08-11T02:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "파일이 만들어졌다고 실행이 끝난 것은 아니다. CLR은 어셈블리를 로드하고 메타데이터로 타입과 참조를 파악한다. 그리고 호출된 메서드의 CIL을 현재 프로세서가 실행할 수 있는 네이티브 코드로 바꾼다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "파일이 만들어졌다고 실행이 끝난 것은 아니다. CLR은 어셈블리를 로드하고 메타데이터로 타입과 참조를 파악한다. 그리고 호출된 메서드의 CIL을 현재 프로세서가 실행할 수 있는 네이티브 코드로 바꾼다.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-8081-8b98-e475fdea2dfe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T02:32:00.000Z",
+      "last_edited_time": "2026-08-11T02:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "external",
+        "external": {
+          "url": "/notion-data/3b8f909c-3e9d-807e-8025-e432677a1491/image-3b9f909c3e9d80818b98e475fdea2dfe.png"
+        }
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "3b9f909c-3e9d-80ee-a3e3-ecc5fb28187a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
+      },
+      "created_time": "2026-08-11T02:39:00.000Z",
+      "last_edited_time": "2026-08-11T02:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "archived": false,
+      "blocks": []
+    },
+    {
+      "object": "block",
       "id": "3b8f909c-3e9d-8037-abf1-f0961973c475",
       "parent": {
         "type": "page_id",
         "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
       },
       "created_time": "2026-08-10T08:54:00.000Z",
-      "last_edited_time": "2026-08-10T08:54:00.000Z",
+      "last_edited_time": "2026-08-11T02:29:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
