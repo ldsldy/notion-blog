@@ -301,18 +301,6 @@ function sanitizeBlocks(blocks) {
     const children = sanitizeBlocks(block.blocks || [])
 
     if (SUPPORTED_BLOCK_TYPES.has(block.type)) {
-      if (block.type === 'callout' && !block.callout?.icon) {
-        console.warn('Added a default icon to a Notion callout with no icon.')
-        return {
-          ...block,
-          callout: {
-            ...block.callout,
-            icon: { type: 'emoji', emoji: '💡' },
-          },
-          blocks: children,
-        }
-      }
-
       return { ...block, blocks: children }
     }
 

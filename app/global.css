@@ -201,6 +201,49 @@ table {
   color: rgb(45 212 191);
 }
 
+.notion-custom-callout {
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+
+.notion-custom-callout-icon {
+  display: flex;
+  width: 1.5rem;
+  height: 1.5rem;
+  flex: 0 0 1.5rem;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  line-height: 1;
+}
+
+.notion-custom-callout-icon img {
+  width: 1.5rem;
+  height: 1.5rem;
+  object-fit: contain;
+}
+
+.notion-custom-callout-body {
+  min-width: 0;
+  flex: 1;
+  overflow-wrap: anywhere;
+}
+
+.notion-custom-callout-text,
+.notion-custom-callout-children {
+  min-width: 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.notion-custom-callout-children > .notion-block {
+  margin-left: 0;
+}
+
+.notion-custom-callout-text + .notion-custom-callout-children {
+  margin-top: 0.35rem;
+}
+
 @media (max-width: 640px) {
   .post-detail .notion {
     --notion-max-width: 100%;
