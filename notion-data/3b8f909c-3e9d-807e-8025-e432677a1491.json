@@ -2,7 +2,7 @@
   "object": "page",
   "id": "3b8f909c-3e9d-807e-8025-e432677a1491",
   "created_time": "2026-08-10T08:37:00.000Z",
-  "last_edited_time": "2026-08-11T01:43:00.000Z",
+  "last_edited_time": "2026-08-11T01:49:00.000Z",
   "created_by": {
     "object": "user",
     "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -48,8 +48,8 @@
           "name": "스크린샷 2026-08-10 110719.png",
           "type": "file",
           "file": {
-            "url": "https://prod-files-secure-apne2.s3.ap-northeast-2.amazonaws.com/abef909c-3e9d-81f7-8928-000356ef3a91/6a3f2ad2-5e18-4aef-8ee2-58fb812800fc/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-08-10_110719.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UJJCQDWI%2F20260811%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Date=20260811T014552Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLW5vcnRoZWFzdC0yIkgwRgIhANFAghzJTbtqKmE6qltw7WqBlTHcjqrXIP%2FnykFbUSsXAiEAscs17m0X8AzqLyfB92rZkvpLYqk5mDi%2BdotizEn3k18qjwQIqv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDBU3AQkS2oxCyyTDsSrjA81a19%2BCKc3YMYYk2RpCbhtVmPsy1MBgCKktfeQHigrwKNYCWdzfnN%2Bgoiy59%2FrX%2BtbsFlBjgcYr9KRibM4RpYCn2y%2FU4AVuY%2FHnNGYrpm%2BNA8dMLg1wi%2F9VP%2BGXHJGGVIoHP00O3hwvA6rqaQXk8oEKWjxeHyN1jPsrTF7K1%2BCUyHRtobXxxjtEr0Sq%2B4P2MJHvvdNUWlxry4d9ySD7s1hS2rptYHrDmFeMaYLomHAJjx57yWWY7EuBAbwdMakMmjpesJP%2FCaDTvSG0aCmIaw%2BzBOFT1HM6KQEzbulBLNULf3qsVeeHpI0fb4pOvMyDGGqIIvjV4X7QVGKhXIQIosg0QL%2F3TbtyTWjEW1%2FdG9l%2FzPIpqNyOJ9ns8p2ky%2BxBldh2br3fhY740fJ23D85BIdE7qw1XkY36mfBEtdHOsn9ftYud%2BxkT8twRf507iLwDfEQG7iQDRT4ZJKadMjiAFntmMG9oYnd1rPB%2BR6kKZQfarcO8gJ%2FcNty12FJhWk2y3MgGq%2BZALLGVCo%2BtyyNsMWunTBlWFQ4xiosiRb9FgA%2BNgQqsebdyc1CdkCIKk0ttqjhtaMtfTVT7owMDPdL0supUMqscYasah5YVYl%2F9u3cDDYti14uMHFwDuxl48tPY%2FQOazDa2enTBjqkAdVLaHXc%2Ba7UQxtjRh0Axp04vCh%2BBZARtQrHV0gnbM5dv%2BcqjugQc0JI11nsrAZm0BGvDJz3ihFBhhdYujDACMYhsulylNmbwKSSHLU36sj2w8PRHzxCeyOidpL8Effq0Et%2F3mgj0IYw1whrzwbwiUQkeiYHY%2Fin2mJaPKPC2LtztVszvoj9yT1Mw3LvNTO783IwhhNcyny7ckDkXjh1jNlR7k2Z&X-Amz-Signature=996197e58f087510314c9308e473f8c2a412eba7cfe5701f39c4235fa0b14c57&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-            "expiry_time": "2026-08-11T02:45:52.423Z"
+            "url": "https://prod-files-secure-apne2.s3.ap-northeast-2.amazonaws.com/abef909c-3e9d-81f7-8928-000356ef3a91/6a3f2ad2-5e18-4aef-8ee2-58fb812800fc/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-08-10_110719.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Z5Y4RNO5%2F20260811%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Date=20260811T015442Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLW5vcnRoZWFzdC0yIkgwRgIhALO1RQOw%2B8MU4Y80s6gBajJCXNYoZBKvKknpqHHxohNdAiEAgqv8rd0qaSNw%2FGUgPzD1UxEj1BTpnlmfZKz4zjmrOEgqjwQIqv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDEwKNMiI3Tvb9MSKryrjA3ogOIxdzj3pAhrp4y4pDKMY%2B4kzM7Mb6SWg7UnPl2uxY2E9uS4VBvArhrkPbuwdTNYJBiwPtSAf9QAqVnc9mUX36bgLtZrge5lvv6VPQAGrczsYZDakYybGBqQErsDU%2B0UlWA%2F1LeaJ0HdxPlTnbp3bWV1uGbD2ce4Lb9x1a9WhssXeXtrPNx5Tb2Wb8%2BSIFza%2B8Ghjty3qLDOJaRga5budzvG0npUPpNiKvbGOE7qxoTC2EAoG4xz3cr%2BrnWoqjHrQzGk4LsIiJ51yxaig6aEwsiptUHOQ7gFlQxSPNj3wlXDYa6Hvlbqh5r8rUyBrGoaHDFsWtEQfHm1V23seqwPZU1ftQ7%2FEltLARUrdrub63VDE9v2imLwG5m0%2BCOZvC%2FseJlPpiz%2BEbkzWYm3c76nH%2FV6O01R%2FMa9i1%2BURl3Qfr%2BQFqBqZsQ%2B3vqVz%2FUZtnL%2BXEHrygz%2FG3Hdch9z7CZn2NFmui0QkXO0Htugp56BiXn3a9ep5MsBmkoCzMwXNzdrgmVzPDtFbg995aq0BbckcjQTE9I0MO2naDJNYODnl%2Beee0Rn84Z%2BASdDAPeAQc5b%2F0id%2Feb%2FmWr3ryM%2FniNF5rY9M04xzy9jnpXb1RSwk5DzirQGYDfbSZA7XJTLpHPXV%2FzDZ2enTBjqkAWok4NJaOKUe7PYXo4yGc2XtplYjCvF1PbcI2hC5B5ElSkMiTkwUdl5wQKqbDWcktqb1to%2F3Lau7Kdhf90P%2BTL7iJw3Z3Y3Jjw91m%2Fspac%2BDEAKBtVFDpZVAbeI40%2F4VxQUQU9xJ6tSc%2BLelxLMzIqycfGsk2fGmaP88ieowJI09s8kedw%2FvVePxlZ6Bj3DdmJAVn6KN6lWwNlqrprADU9v9xLHX&X-Amz-Signature=b6f2de484c43cefecaf529f392ea6c3d25f60cf36eb7abda2a456a43222809d3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+            "expiry_time": "2026-08-11T02:54:42.016Z"
           }
         }
       ]
@@ -2555,7 +2555,7 @@
             "block_id": "3b9f909c-3e9d-8088-a016-e562c0497372"
           },
           "created_time": "2026-08-11T01:27:00.000Z",
-          "last_edited_time": "2026-08-11T01:43:00.000Z",
+          "last_edited_time": "2026-08-11T01:49:00.000Z",
           "created_by": {
             "object": "user",
             "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -2830,13 +2830,13 @@
             },
             {
               "object": "block",
-              "id": "3b9f909c-3e9d-80a3-9d61-e390416039b0",
+              "id": "3b9f909c-3e9d-80cb-8a3b-fbd506acaf8b",
               "parent": {
                 "type": "block_id",
                 "block_id": "3b9f909c-3e9d-808d-9a12-fe294ab3110e"
               },
-              "created_time": "2026-08-11T01:43:00.000Z",
-              "last_edited_time": "2026-08-11T01:43:00.000Z",
+              "created_time": "2026-08-11T01:48:00.000Z",
+              "last_edited_time": "2026-08-11T01:48:00.000Z",
               "created_by": {
                 "object": "user",
                 "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -2852,7 +2852,7 @@
                 "caption": [],
                 "type": "external",
                 "external": {
-                  "url": "/notion-data/3b8f909c-3e9d-807e-8025-e432677a1491/image-3b9f909c3e9d80a39d61e390416039b0.png"
+                  "url": "/notion-data/3b8f909c-3e9d-807e-8025-e432677a1491/image-3b9f909c3e9d80cb8a3bfbd506acaf8b.png"
                 }
               },
               "archived": false,
@@ -2860,13 +2860,13 @@
             },
             {
               "object": "block",
-              "id": "3b9f909c-3e9d-80d0-b16b-f8ac7373f0d1",
+              "id": "3b9f909c-3e9d-8030-a0a5-d455dcb861a0",
               "parent": {
                 "type": "block_id",
                 "block_id": "3b9f909c-3e9d-808d-9a12-fe294ab3110e"
               },
-              "created_time": "2026-08-11T01:43:00.000Z",
-              "last_edited_time": "2026-08-11T01:43:00.000Z",
+              "created_time": "2026-08-11T01:49:00.000Z",
+              "last_edited_time": "2026-08-11T01:49:00.000Z",
               "created_by": {
                 "object": "user",
                 "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
@@ -2877,10 +2877,50 @@
               },
               "has_children": false,
               "in_trash": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [],
-                "icon": null,
+              "type": "callout",
+              "callout": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "참고: ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "참고: ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Microsoft Learn - .NET 소개",
+                      "link": {
+                        "url": "https://learn.microsoft.com/ko-kr/dotnet/core/introduction"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Microsoft Learn - .NET 소개",
+                    "href": "https://learn.microsoft.com/ko-kr/dotnet/core/introduction"
+                  }
+                ],
+                "icon": {
+                  "type": "emoji",
+                  "emoji": "📎"
+                },
                 "color": "default"
               },
               "archived": false,
@@ -4395,36 +4435,6 @@
         "rich_text": [],
         "icon": null,
         "color": "default"
-      },
-      "archived": false,
-      "blocks": []
-    },
-    {
-      "object": "block",
-      "id": "3b9f909c-3e9d-807d-a29f-f9c0a561485e",
-      "parent": {
-        "type": "page_id",
-        "page_id": "3b8f909c-3e9d-807e-8025-e432677a1491"
-      },
-      "created_time": "2026-08-11T00:08:00.000Z",
-      "last_edited_time": "2026-08-11T00:08:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "3b8d872b-594c-81fd-b8e5-00023dd9850f"
-      },
-      "has_children": false,
-      "in_trash": false,
-      "type": "image",
-      "image": {
-        "caption": [],
-        "type": "external",
-        "external": {
-          "url": "/notion-data/3b8f909c-3e9d-807e-8025-e432677a1491/image-3b9f909c3e9d807da29ff9c0a561485e.png"
-        }
       },
       "archived": false,
       "blocks": []
