@@ -315,6 +315,10 @@ function CustomColumn({ column, children }: CustomColumnProps) {
 function CustomTable({ table, children }: CustomTableProps) {
   const hasColumnHeader = Boolean(table?.has_column_header)
   const hasRowHeader = Boolean(table?.has_row_header)
+  const columnCount = Math.max(Number(table?.table_width) || 1, 1)
+  const style = {
+    '--notion-table-min-width': `${Math.max(columnCount * 17, 42)}rem`,
+  } as CSSProperties
 
   return (
     <div
@@ -322,6 +326,7 @@ function CustomTable({ table, children }: CustomTableProps) {
       role="region"
       aria-label="표"
       tabIndex={0}
+      style={style}
     >
       <table
         className={`notion-table notion-table-content ${

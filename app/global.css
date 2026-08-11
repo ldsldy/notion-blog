@@ -263,7 +263,11 @@ table {
 }
 
 .notion .notion-responsive-table {
-  width: 100%;
+  width: min(
+    75rem,
+    calc(50vw + (var(--notion-max-width) / 2) - 1.5rem)
+  );
+  max-width: calc(100vw - 1.5rem);
   margin: 1rem 0;
   overflow-x: auto;
   overscroll-behavior-inline: contain;
@@ -278,8 +282,8 @@ table {
 }
 
 .notion .notion-responsive-table .notion-table {
-  width: max(100%, 42rem);
-  min-width: 100%;
+  width: 100%;
+  min-width: var(--notion-table-min-width, 42rem);
   margin: 0;
   table-layout: auto;
   border-collapse: collapse;
@@ -294,9 +298,9 @@ table {
   border-right: 1px solid var(--fg-color-5);
   border-bottom: 1px solid var(--fg-color-5);
   vertical-align: top;
-  white-space: pre-wrap;
-  overflow-wrap: anywhere;
-  word-break: normal;
+  white-space: nowrap;
+  overflow-wrap: normal;
+  word-break: keep-all;
   line-height: 1.55;
 }
 
