@@ -207,6 +207,15 @@ table {
   color: rgb(45 212 191);
 }
 
+.notion .notion-hr {
+  border: 0;
+  border-top: 1px solid rgb(229 229 229);
+}
+
+.dark .notion .notion-hr {
+  border-top-color: rgb(64 64 64);
+}
+
 .notion-custom-callout {
   align-items: flex-start;
   gap: 0.5rem;
